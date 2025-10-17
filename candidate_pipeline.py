@@ -9,6 +9,20 @@ import regex as re
 from ftfy import fix_text
 from unidecode import unidecode
 
+# import nltk #TODO NLTK ran worse than spacy, but leaving this in in case we change our minds
+# from nltk import word_tokenize, pos_tag, ne_chunk
+
+# nltk.download('punkt_tab')
+# nltk.download('averaged_perceptron_tagger_eng')
+# nltk.download('maxent_ne_chunker_tab')
+# nltk.download('words')
+
+import spacy #NOTE: "python -m spacy download en_core_web_sm" needs to be run to install the small english model
+# Or we could pick a diffent model
+
+# Load the small English model
+nlp = spacy.load("en_core_web_sm")
+
 # ---------- Anchors & simple resources ----------
 
 ANCHORS = {
@@ -27,9 +41,7 @@ ANCHORS = {
     # "BEST_NET": re.compile(r"\bbest\b.{0,120}", re.I | re.DOTALL),
 }
 
-AWARD_KEYWORDS = {
-    
-}
+AWARD_KEYWORDS = {}
 EDGE_STOPWORDS = {"the","a","an","of","for","and","or","to","in"}
 PUNCT_OR_BREAK = re.compile(r"[.!?,:;]| {2,}")
 
@@ -57,11 +69,39 @@ def enumerate_suffixes(tokens: List[str], max_len: int) -> List[str]:
     return out
 
 def filter_award_name(text: str):
-    pattern = r"Best original score"
-    match = re.search(pattern, text)
-    if match:
-        return match.group()
-    return "false"
+    for keyword in AWARD_KEYWORDS:
+        pattern = rf"\b{re.escape(keyword)}\b" #Now it's pulling from AWARD_KEYWORDS that is populated by the awrds.txt file
+        match = re.search(pattern, text, re.IGNORECASE) #Added ignorecase
+        if match:
+            return match.group()
+    
+    return "unrecognizable award" #"false"
+
+#TODO NLTK ran worse than spacy, but leaving this in in case we change our minds
+# def filter_name(text: str): #Uses NLTK to find names
+#     tokens = word_tokenize(text)
+#     pos_tags = pos_tag(tokens)
+
+#     # Named Entity Recognition
+#     tree = ne_chunk(pos_tags)
+
+#     # Extract named entities (like people, organizations, locations)
+#     names = []
+#     for subtree in tree:
+#         if hasattr(subtree, 'label') and subtree.label() == 'PERSON':
+#             name = " ".join([token for token, pos in subtree.leaves()])
+#             names.append(name)
+
+#     return names
+
+def filter_name(text: str): #Uses spacy to find names
+    # Process the text
+    doc = nlp(text)
+
+    # Extract entities recognized as PERSON
+    names = [ent.text for ent in doc.ents if ent.label_ == "PERSON"] #Spacy can recognize 1 or 2 words as a single person entity
+    
+    return names
 
 def split3(text: str, pat: re.Pattern) -> Optional[Tuple[str,str,str]]:
     m = pat.search(text)
@@ -88,7 +128,7 @@ def generate_from_text(text: str, base: Dict, segment: str,
     if x:
         L, anchor, R = x
         # award_name = enumerate_suffixes(L.split(), max_left)[-1]
-        subject = enumerate_prefixes(R.split(" "), max_right)
+        subject = filter_name(R)[0] #enumerate_prefixes(R.split(" "), max_right)
         award_name = filter_award_name(L)
         cands.append(mk_candidate(rule_id="WIN_B", award_name=award_name, anchor_text=anchor, subject=subject))
     else:
@@ -97,13 +137,24 @@ def generate_from_text(text: str, base: Dict, segment: str,
         
         if x:
             L, anchor, R = x
-            subject = enumerate_suffixes(L.split(), max_left)[-1]
+            subject = filter_name(L)[0] #enumerate_suffixes(L.split(), max_left)[-1]
             # award_name = enumerate_prefixes(R.split(" "), max_right)
             award_name = filter_award_name(R)
             cands.append(mk_candidate(rule_id="WIN_A", award_name=award_name, anchor_text=anchor, subject=subject))
 
     return cands
 
-print(generate_from_text("RT @CNNshowbiz: Best original score - motion picture is awarded to Mychael Danna for the \"Life of Pi\"", {}, "raw", 8, 2))
+#Populating AWARD_KEYWORDS from the file
+with open("awards.txt", "r", encoding="utf-8") as f: 
+    for line in f:
+        keyword = line.strip()
+        if keyword:  # skipping empty lines
+            AWARD_KEYWORDS[keyword] = ""  # setting default value
 
+#Testing ideal case (works well)
+print(generate_from_text("RT @CNNshowbiz: Best original score - motion picture is awarded to Mychael Danna for the \"Life of Pi\"", {}, "raw", 8, 2))
+#Testing if Spacy recognizes single name person (it does)
+print(generate_from_text("RT @moderndestiny: I really, really, really hope Adele wins a Globe tonight. She looks GORG in @Burberry #GoldenGlobes @ERedCarpet", {}, "raw", 8, 2))
+#Testing if Spacy gets confused by multiple names (it just takes the first one; we can talk about intended behavior)
+print(generate_from_text("RT @_thebrunetteone: Ben Affleck, you are hot. I hope you win. I hope Kathryn Bigelow wins too, but I hope you win. #GoldenGlobes", {}, "raw", 8, 2))
 
