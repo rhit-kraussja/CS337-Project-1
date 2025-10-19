@@ -5846,6 +5846,16 @@
     ]
   },
   {
+    "normalized": "best original song goes to",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Original Song goes to",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best dressed of the night easily",
     "total_count": 1,
     "top_variants": [
@@ -8236,6 +8246,16 @@
     ]
   },
   {
+    "normalized": "best original song goes to skyfall 2013 golden globes",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Original Song goes to Skyfall 2013 Golden Globes",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actress drama for zero da",
     "total_count": 1,
     "top_variants": [
@@ -8251,6 +8271,16 @@
     "top_variants": [
       {
         "text": "Best Drama/Best Director at",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best original song goes to skyfall 2013 go",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Original Song goes to Skyfall 2013 Go",
         "count": 1
       }
     ]

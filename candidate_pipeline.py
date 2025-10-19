@@ -53,10 +53,10 @@ class Candidate:
 def normalize_text(s: str) -> str:
     """
     Normalize text to improve matching:
-      - fix unicode and strip diacritics
-      - remove URLs, @handles, #hashtags
-      - normalize dashes and strip certain punctuation
-      - lowercase; '&'→'and'; 'tv'→'television'; collapse spaces
+    - fix unicode and strip diacritics
+    - remove URLs, @handles, #hashtags
+    - normalize dashes and strip certain punctuation
+    - lowercase; '&'→'and'; 'tv'→'television'; collapse spaces
     """
     s = s or ""
     s = fix_text(unidecode(s))
@@ -73,10 +73,10 @@ def extract_award_from_side(side_text: str) -> Optional[str]:
     """
     Pull a likely award phrase from one side of the anchor.
     Strategy:
-      1) Prefer an explicit 'Best …' span.
-      2) Trim at strong punctuation.
-      3) Require 'best' to avoid junk.
-      4) Record normalized + original; return the most common original variant.
+    1) Prefer an explicit 'Best …' span.
+    2) Trim at strong punctuation.
+    3) Require 'best' to avoid junk.
+    4) Record normalized + original; return the most common original variant.
     Returns None if no reasonable award phrase is found.
     """
     if not side_text:
@@ -104,14 +104,14 @@ def extract_award_from_side(side_text: str) -> Optional[str]:
 def dump_learned_awards(path: str = "learned_awards.json") -> None:
     """
     Persist a summary of learned award phrases:
-      [
-        {
-          "normalized": "best performance by an actor in a motion picture - drama",
-          "total_count": 123,
-          "top_variants": [{"text": "Best Performance by an Actor in a Motion Picture - Drama", "count": 80}, ...]
-        },
+        [
+            {
+                "normalized": "best performance by an actor in a motion picture - drama",
+                "total_count": 123,
+                "top_variants": [{"text": "Best Performance by an Actor in a Motion Picture - Drama", "count": 80}, ...]
+            },
         ...
-      ]
+        ]
     """
     out = []
     for norm, total in AWARD_FREQ.most_common():
@@ -147,10 +147,10 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     Extract (award, winner) candidates from a single tweet/text.
 
     Flow:
-      1) Try WIN_B: 'Award goes to Entity' → PERSON on right, award on left.
-      2) Else try WIN_A: 'Entity wins Award' → PERSON on left, award on right.
-      3) Use spaCy NER for PERSON, regex heuristics for 'Best …' award phrase.
-      4) Skip if award is unrecognizable (i.e., extractor returns None).
+    1) Try WIN_B: 'Award goes to Entity' → PERSON on right, award on left.
+    2) Else try WIN_A: 'Entity wins Award' → PERSON on left, award on right.
+    3) Use spaCy NER for PERSON, regex heuristics for 'Best …' award phrase.
+    4) Skip if award is unrecognizable (i.e., extractor returns None).
     """
     cands: List[Candidate] = []
 
