@@ -12,6 +12,10 @@ from ftfy import fix_text
 from unidecode import unidecode
 import spacy
 
+from typing import Optional
+from collections import Counter
+from rapidfuzz import process, fuzz
+
 # Load spaCy English model once (install with: python -m spacy download en_core_web_sm)
 nlp = spacy.load("en_core_web_sm")
 
@@ -37,6 +41,15 @@ ANCHORS = {
     "WIN_A": re.compile(r"(.+?)\s+(wins?|receives?|gets|takes\s+home|is\s+awarded)\s+(.+)", re.I),
     # Award goes to Entity -> left award, right entity
     "WIN_B": re.compile(r"(.+?)\s+(goes\s+to|awarded\s+to)\s+(.+)", re.I),
+    # Presenters
+    "PRESENT_FWD": re.compile(r"(?:present(?:s|ed)?|introduce(?:s|d)?)\s+(.+)", re.I),
+    "PRESENT_BY": re.compile(r"presented\s+by\s+(.+)", re.I),
+    # Nominees
+    "NOMINEES": re.compile(r"(?:nominee[s]?\s+(?:are|for)|nominated\s+for)\s+(.+)", re.I),
+    # Host trigger
+    "HOST": re.compile(r"(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\b", re.I),
+    # Broad "Best ..." net from anywhere
+    "BEST_NET": re.compile(r"\bbest\b.{0,120}", re.I | re.DOTALL),
 }
 
 # ---------- Data model ----------
@@ -49,6 +62,11 @@ class Candidate:
     subject: str        # PERSON name (winner)
 
 # ---------- Helpers ----------
+
+# Load known awards
+with open("awards.txt", encoding="utf-8") as f:
+    KNOWN_AWARDS = [line.strip() for line in f if line.strip()]
+
 
 def normalize_text(s: str) -> str:
     """
@@ -68,6 +86,22 @@ def normalize_text(s: str) -> str:
     s = s.lower().replace("&", "and").replace(" tv ", " television ")
     s = SPACE.sub(" ", s).strip()
     return s
+
+# Precompute normalized known awards for matching
+NORMALIZED_AWARDS = {normalize_text(a): a for a in KNOWN_AWARDS}
+
+def best_fuzzy_match(candidate: str, known_dict, cutoff: float = 60) -> Optional[str]:
+    """
+    Return best fuzzy match from normalized known_dict or None if no good match.
+    candidate: normalized string
+    known_dict: {normalized_award: original_award}
+    cutoff: minimum similarity score (0–100)
+    """
+    match = process.extractOne(candidate, known_dict.keys(), scorer=fuzz.token_sort_ratio)
+    if match and match[1] >= cutoff:
+        norm_match = match[0]
+        return known_dict[norm_match]
+    return None
 
 def extract_award_from_side(side_text: str) -> Optional[str]:
     """
@@ -99,7 +133,11 @@ def extract_award_from_side(side_text: str) -> Optional[str]:
 
     AWARD_FREQ[norm] += 1
     AWARD_VARIANTS.setdefault(norm, Counter())[cand] += 1
-    return AWARD_VARIANTS[norm].most_common(1)[0][0]
+    #return AWARD_VARIANTS[norm].most_common(1)[0][0] # Used if we want to use our learned awards rather than pulling from file
+
+    # Try to match against known awards
+    matched_award = best_fuzzy_match(norm, NORMALIZED_AWARDS)
+    return matched_award
 
 def dump_learned_awards(path: str = "learned_awards.json") -> None:
     """
@@ -128,6 +166,30 @@ def filter_name(text: str) -> List[str]:
     """Return all PERSON entity spans from text using spaCy."""
     doc = nlp(text)
     return [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+
+def filter_movie(text: str) -> List[str]:
+    """Return all WORK_OF_ART entity spans from text using spaCy."""
+    doc = nlp(text)
+    return [ent.text for ent in doc.ents if ent.label_ == "WORK_OF_ART"]
+
+def actor_award(award_name: str) -> bool:
+    """Check if the award is looking for an actor"""
+    award_name = award_name.lower()
+
+    person_keywords = [
+        "actor", "actress", "director", "score", "screenplay"
+    ]
+    # film_keywords = [ # For if we want to deliniate film also and have a third category of unknown to run another check on
+    #     "picture", "film", "feature", "movie", "cinematography",
+    #     "editing", "sound", "score", "design", "visual effects", "makeup"
+    # ]
+
+    if any(word in award_name for word in person_keywords):
+        return True
+    # elif any(word in award_name for word in film_keywords): # For if we want to deliniate film also and have a third category of unknown to run another check on
+    #     return "film"
+    else:
+        return False
 
 def split3(text: str, pat: re.Pattern) -> Optional[Tuple[str, str, str]]:
     """Apply a 3-group regex to text; return (L, anchor, R) or None."""
@@ -158,11 +220,14 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     sb = split3(text, ANCHORS["WIN_B"])
     if sb:
         L, anchor, R = sb
-        names = filter_name(R)
-        if names:
-            subject = names[0]
-            award_name = extract_award_from_side(L)
-            if award_name:  # omit unrecognizable awards
+        award_name = extract_award_from_side(L)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(R)
+            else:
+                subject = filter_movie(R)
+            if subject:
+                subject = subject[0]
                 cands.append(mk_candidate("WIN_B", award_name, anchor, subject))
                 return cands  # prefer WIN_B when both might match
 
@@ -170,11 +235,44 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     sa = split3(text, ANCHORS["WIN_A"])
     if sa:
         L, anchor, R = sa
-        names = filter_name(L)
-        if names:
-            subject = names[0]
-            award_name = extract_award_from_side(R)
-            if award_name:  # omit unrecognizable awards
+        award_name = extract_award_from_side(R)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(L)
+            else:
+                subject = filter_movie(L)
+            if subject:
+                subject = subject[0]
                 cands.append(mk_candidate("WIN_A", award_name, anchor, subject))
+                return cands
 
+    # Presenters
+    # m = ANCHORS["PRESENT_FWD"].search(text)
+    # if m:
+    #     obj = m.group(1).strip()
+    #     cands.append(mk_candidate(base, entity_type="presenter", rule_id="PRESENT_FWD",
+    #                               span_text=obj, anchor_text="present", side=None, segment=segment))
+    # m = ANCHORS["PRESENT_BY"].search(text)
+    # if m:
+    #     name = m.group(1).strip()
+    #     cands.append(mk_candidate(base, entity_type="presenter", rule_id="PRESENT_BY",
+    #                               span_text=name, anchor_text="presented by", side=None, segment=segment))
+
+    # # Nominees
+    # m = ANCHORS["NOMINEES"].search(text)
+    # if m:
+    #     for name in explode_nominee_list(m.group(1)):
+    #         cands.append(mk_candidate(base, entity_type="nominee", rule_id="NOMINEES",
+    #                                   span_text=name, anchor_text="nominee", side=None, segment=segment))
+
+    # # Host
+    # if ANCHORS["HOST"].search(text):
+    #     cands.append(mk_candidate(base, entity_type="host", rule_id="HOST",
+    #                               span_text=text, anchor_text="host", side=None, segment=segment))
+
+    # # Best-net (award-like phrase anywhere)
+    # m = ANCHORS["BEST_NET"].search(text)
+    # if m:
+    #     cands.append(mk_candidate(base, entity_type="award", rule_id="BEST_NET",
+    #                               span_text=m.group(0).strip(), anchor_text="best", side=None, segment=segment))
     return cands
