@@ -42,8 +42,8 @@ ANCHORS = {
     # Award goes to Entity -> left award, right entity
     "WIN_B": re.compile(r"(.+?)\s+(goes\s+to|awarded\s+to)\s+(.+)", re.I),
     # Presenters
-    "PRESENT_FWD": re.compile(r"(?:present(?:s|ed)?|introduce(?:s|d)?)\s+(.+)", re.I),
-    "PRESENT_BY": re.compile(r"presented\s+by\s+(.+)", re.I),
+    "PRESENT_A": re.compile(r"(.+?)\s+(present(?:s|ed)?|introduce(?:s|d)?)\s+(.+)", re.I),
+    "PRESENT_B": re.compile(r"(.+?)\s+((presented|introduced)\s+by\s)(.+)", re.I),
     # Nominees
     "NOMINEES": re.compile(r"(?:nominee[s]?\s+(?:are|for)|nominated\s+for)\s+(.+)", re.I),
     # Host trigger
@@ -246,17 +246,36 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
                 cands.append(mk_candidate("WIN_A", award_name, anchor, subject))
                 return cands
 
-    # Presenters
-    # m = ANCHORS["PRESENT_FWD"].search(text)
-    # if m:
-    #     obj = m.group(1).strip()
-    #     cands.append(mk_candidate(base, entity_type="presenter", rule_id="PRESENT_FWD",
-    #                               span_text=obj, anchor_text="present", side=None, segment=segment))
-    # m = ANCHORS["PRESENT_BY"].search(text)
-    # if m:
-    #     name = m.group(1).strip()
-    #     cands.append(mk_candidate(base, entity_type="presenter", rule_id="PRESENT_BY",
-    #                               span_text=name, anchor_text="presented by", side=None, segment=segment))
+    # PRESENT_B: Award presented by Entity
+    sb = split3(text, ANCHORS["PRESENT_B"])
+    if sb:
+        L, anchor, R = sb
+        award_name = extract_award_from_side(L)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(R)
+            else:
+                subject = filter_movie(R)
+            if subject:
+                subject = subject[0]
+                cands.append(mk_candidate("PRESENT_B", award_name, anchor, subject))
+                return cands 
+
+    # PRESENT_A: Entity presents Award
+    sa = split3(text, ANCHORS["PRESENT_A"])
+    if sa:
+        L, anchor, R = sa
+        award_name = extract_award_from_side(R)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(L)
+            else:
+                subject = filter_movie(L)
+            if subject:
+                subject = subject[0]
+                cands.append(mk_candidate("PRESENT_A", award_name, anchor, subject))
+                return cands
+
 
     # # Nominees
     # m = ANCHORS["NOMINEES"].search(text)
