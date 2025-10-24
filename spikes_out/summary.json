@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "minute_start": 22635423,
+    "minute_end": 22635439,
+    "epoch_ms_start": 1358125380000,
+    "epoch_ms_end": 1358126399999,
+    "tweet_count": 818,
+    "file": "spike_01.json"
+  },
+  {
+    "index": 2,
+    "minute_start": 22635446,
+    "minute_end": 22635539,
+    "epoch_ms_start": 1358126760000,
+    "epoch_ms_end": 1358132399999,
+    "tweet_count": 4998,
+    "file": "spike_02.json"
+  },
+  {
+    "index": 3,
+    "minute_start": 22635551,
+    "minute_end": 22635609,
+    "epoch_ms_start": 1358133060000,
+    "epoch_ms_end": 1358136599999,
+    "tweet_count": 3279,
+    "file": "spike_03.json"
+  },
+  {
+    "index": 4,
+    "minute_start": 22635616,
+    "minute_end": 22635631,
+    "epoch_ms_start": 1358136960000,
+    "epoch_ms_end": 1358137919999,
+    "tweet_count": 460,
+    "file": "spike_04.json"
+  }
+]
