@@ -2,10 +2,11 @@
 import json
 from pathlib import Path
 from dataclasses import asdict
-from candidate_pipeline import generate_from_text, dump_learned_awards
+from candidate_pipeline import generate_from_text, dump_learned_awards, finalize_answers
 
-INPUT  = Path("gg2013.json")
+INPUT  = Path("spikes_out/combined_spikes.json")
 OUT    = Path("candidates.json")
+ANSW   = Path("proj1_answers.json")
 
 def load_texts(path: Path):
     data = json.loads(path.read_text(encoding="utf-8"))
@@ -16,13 +17,17 @@ def load_texts(path: Path):
 
 def main():
     texts = list(load_texts(INPUT))
-    out = []
+    cands = []
     for t in texts:
         for c in generate_from_text(t, {}, "raw", 8, 2):
-            out.append(asdict(c))
-    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    dump_learned_awards("learned_awards.json")  # optional report
-    print(f"Wrote {len(out)} candidates to {OUT}")
+            cands.append(asdict(c))
+    OUT.write_text(json.dumps(cands, ensure_ascii=False, indent=2), encoding="utf-8")
+    dump_learned_awards("learned_awards.json")
+
+    answers = finalize_answers(texts, cands)       # ← new
+    ANSW.write_text(json.dumps(answers, ensure_ascii=False, indent=4), encoding="utf-8")
+    print(f"Wrote {len(cands)} candidates to {OUT}")
+    print(f"Wrote answers to {ANSW}")
 
 if __name__ == "__main__":
     main()

@@ -1,145 +1,61 @@
 [
   {
     "normalized": "best director",
-    "total_count": 106,
+    "total_count": 27,
     "top_variants": [
       {
         "text": "Best Director",
-        "count": 93
+        "count": 19
       },
       {
         "text": "best director",
-        "count": 10
+        "count": 6
       },
       {
         "text": "Best director",
-        "count": 3
+        "count": 2
       }
     ]
   },
   {
-    "normalized": "best motion picture drama",
-    "total_count": 91,
+    "normalized": "best actor, drama",
+    "total_count": 26,
     "top_variants": [
       {
-        "text": "Best motion picture drama",
-        "count": 83
-      },
-      {
-        "text": "Best Motion Picture Drama",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a motion picture is",
-    "total_count": 66,
-    "top_variants": [
-      {
-        "text": "Best supporting actress in a motion picture is",
-        "count": 66
-      }
-    ]
-  },
-  {
-    "normalized": "best director motion picture",
-    "total_count": 55,
-    "top_variants": [
-      {
-        "text": "Best director motion picture",
-        "count": 55
+        "text": "Best Actor, Drama",
+        "count": 26
       }
     ]
   },
   {
     "normalized": "best screenplay",
-    "total_count": 53,
+    "total_count": 24,
     "top_variants": [
       {
         "text": "Best Screenplay",
-        "count": 25
+        "count": 9
       },
       {
         "text": "Best screenplay",
-        "count": 15
+        "count": 9
       },
       {
         "text": "best screenplay",
-        "count": 13
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor, motion picture",
-    "total_count": 50,
-    "top_variants": [
-      {
-        "text": "Best supporting actor, motion picture",
-        "count": 50
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress",
-    "total_count": 50,
-    "top_variants": [
-      {
-        "text": "best supporting actress",
-        "count": 31
-      },
-      {
-        "text": "Best Supporting Actress",
-        "count": 18
-      },
-      {
-        "text": "Best supporting actress",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best director for",
-    "total_count": 45,
-    "top_variants": [
-      {
-        "text": "Best Director for",
-        "count": 25
-      },
-      {
-        "text": "best director for",
-        "count": 19
-      },
-      {
-        "text": "BEST DIRECTOR FOR",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best original song for",
-    "total_count": 43,
-    "top_variants": [
-      {
-        "text": "best original song for",
-        "count": 28
-      },
-      {
-        "text": "Best Original Song for",
-        "count": 15
+        "count": 6
       }
     ]
   },
   {
     "normalized": "best actress",
-    "total_count": 40,
+    "total_count": 20,
     "top_variants": [
       {
-        "text": "Best Actress",
-        "count": 27
+        "text": "best actress",
+        "count": 9
       },
       {
-        "text": "best actress",
-        "count": 10
+        "text": "Best Actress",
+        "count": 8
       },
       {
         "text": "BEST ACTRESS",
@@ -152,357 +68,37 @@
     ]
   },
   {
-    "normalized": "best supporting actress for",
-    "total_count": 34,
-    "top_variants": [
-      {
-        "text": "best supporting actress for",
-        "count": 28
-      },
-      {
-        "text": "Best Supporting Actress for",
-        "count": 4
-      },
-      {
-        "text": "Best Supporting Actress For",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a motion picture for",
-    "total_count": 34,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in a Motion Picture for",
-        "count": 34
-      }
-    ]
-  },
-  {
-    "normalized": "best picture, musical or comedy",
-    "total_count": 34,
-    "top_variants": [
-      {
-        "text": "best picture, musical or comedy",
-        "count": 34
-      }
-    ]
-  },
-  {
-    "normalized": "best animated feature film is",
-    "total_count": 33,
-    "top_variants": [
-      {
-        "text": "Best animated feature film is",
-        "count": 33
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actor",
-    "total_count": 30,
+    "total_count": 18,
     "top_variants": [
-      {
-        "text": "best supporting actor",
-        "count": 16
-      },
       {
         "text": "Best Supporting Actor",
-        "count": 9
+        "count": 8
+      },
+      {
+        "text": "best supporting actor",
+        "count": 6
       },
       {
         "text": "Best supporting actor",
-        "count": 5
+        "count": 4
       }
     ]
   },
   {
-    "normalized": "best actress in a television comedy or musical",
-    "total_count": 29,
+    "normalized": "best director for",
+    "total_count": 17,
     "top_variants": [
       {
-        "text": "Best actress in a TV comedy or musical",
-        "count": 29
-      }
-    ]
-  },
-  {
-    "normalized": "best-picture golden globes",
-    "total_count": 29,
-    "top_variants": [
-      {
-        "text": "best-picture Golden Globes",
-        "count": 29
-      }
-    ]
-  },
-  {
-    "normalized": "best original song",
-    "total_count": 27,
-    "top_variants": [
-      {
-        "text": "Best Original Song",
+        "text": "Best Director for",
         "count": 10
       },
       {
-        "text": "best original song",
-        "count": 9
+        "text": "best director for",
+        "count": 6
       },
       {
-        "text": "Best original song",
-        "count": 7
-      },
-      {
-        "text": "BEST ORIGINAL SONG",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, drama",
-    "total_count": 27,
-    "top_variants": [
-      {
-        "text": "Best Actor, Drama",
-        "count": 27
-      }
-    ]
-  },
-  {
-    "normalized": "best picture nominee lincoln",
-    "total_count": 26,
-    "top_variants": [
-      {
-        "text": "Best Picture nominee Lincoln",
-        "count": 26
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a television series",
-    "total_count": 25,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in a TV Series",
-        "count": 23
-      },
-      {
-        "text": "Best Supporting Actress in a Television Series",
-        "count": 1
-      },
-      {
-        "text": "Best Supporting Actress in a TV series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for",
-    "total_count": 25,
-    "top_variants": [
-      {
-        "text": "best actor for",
-        "count": 23
-      },
-      {
-        "text": "Best Actor for",
-        "count": 1
-      },
-      {
-        "text": "Best Actor For",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, drama for",
-    "total_count": 24,
-    "top_variants": [
-      {
-        "text": "best actor, drama for",
-        "count": 24
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor at",
-    "total_count": 22,
-    "top_variants": [
-      {
-        "text": "best supporting actor at",
-        "count": 22
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress television series, miniseries, or television movie",
-    "total_count": 22,
-    "top_variants": [
-      {
-        "text": "Best supporting actress TV series, miniseries, or TV movie",
-        "count": 22
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in television drama, rubs in her",
-    "total_count": 22,
-    "top_variants": [
-      {
-        "text": "best actress in TV drama, rubs in her",
-        "count": 22
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor in",
-    "total_count": 21,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor in",
-        "count": 21
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor globe for",
-    "total_count": 20,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor Globe for",
-        "count": 20
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in",
-    "total_count": 20,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in",
-        "count": 20
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress http",
-    "total_count": 19,
-    "top_variants": [
-      {
-        "text": "best supporting actress http",
-        "count": 19
-      }
-    ]
-  },
-  {
-    "normalized": "best actor",
-    "total_count": 18,
-    "top_variants": [
-      {
-        "text": "Best Actor",
-        "count": 14
-      },
-      {
-        "text": "best actor",
-        "count": 3
-      },
-      {
-        "text": "Best actor",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best original score - motion picture is",
-    "total_count": 18,
-    "top_variants": [
-      {
-        "text": "Best original score - motion picture is",
-        "count": 18
-      }
-    ]
-  },
-  {
-    "normalized": "best actress at the",
-    "total_count": 18,
-    "top_variants": [
-      {
-        "text": "best actress at the",
-        "count": 18
-      }
-    ]
-  },
-  {
-    "normalized": "best director for argo",
-    "total_count": 18,
-    "top_variants": [
-      {
-        "text": "Best Director for Argo",
-        "count": 13
-      },
-      {
-        "text": "best director for Argo",
-        "count": 3
-      },
-      {
-        "text": "Best Director for ARGO",
-        "count": 1
-      },
-      {
-        "text": "Best director for ARGO",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a miniseries/tv movie",
-    "total_count": 17,
-    "top_variants": [
-      {
-        "text": "Best actor in a miniseries/TV movie",
-        "count": 17
-      }
-    ]
-  },
-  {
-    "normalized": "best actress award",
-    "total_count": 17,
-    "top_variants": [
-      {
-        "text": "Best Actress Award",
-        "count": 17
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture",
-    "total_count": 17,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture",
-        "count": 15
-      },
-      {
-        "text": "best motion picture",
-        "count": 1
-      },
-      {
-        "text": "Best motion picture",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for",
-    "total_count": 16,
-    "top_variants": [
-      {
-        "text": "best actress for",
-        "count": 15
-      },
-      {
-        "text": "Best Actress for",
+        "text": "BEST DIRECTOR FOR",
         "count": 1
       }
     ]
@@ -518,204 +114,126 @@
     ]
   },
   {
-    "normalized": "best screenplay for",
-    "total_count": 15,
+    "normalized": "best actor",
+    "total_count": 14,
     "top_variants": [
       {
-        "text": "best screenplay for",
-        "count": 8
+        "text": "Best Actor",
+        "count": 10
       },
       {
-        "text": "Best Screenplay for",
-        "count": 4
-      },
-      {
-        "text": "Best Screenplay For",
+        "text": "best actor",
         "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best screenplay for django unchained",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "best screenplay for Django Unchained",
-        "count": 7
       },
       {
-        "text": "Best Screenplay for Django Unchained",
-        "count": 6
-      },
-      {
-        "text": "BEST SCREENPLAY FOR DJANGO UNCHAINED",
+        "text": "Best actor",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best motion picture screenplay for",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "best motion picture screenplay for",
-        "count": 14
-      }
-    ]
-  },
-  {
-    "normalized": "best actor television series - comedy or musical",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "Best actor TV series - comedy or musical",
-        "count": 14
-      }
-    ]
-  },
-  {
-    "normalized": "best film director for",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "best film director for",
-        "count": 14
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture drama",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Motion Picture Drama",
-        "count": 7
-      },
-      {
-        "text": "Best actor in a motion picture drama",
-        "count": 6
-      },
-      {
-        "text": "Best Actor in A Motion Picture Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture, drama for",
-    "total_count": 14,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Motion Picture, Drama for",
-        "count": 14
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor for django unchained",
+    "normalized": "best original song",
     "total_count": 13,
     "top_variants": [
       {
-        "text": "Best Supporting Actor for Django Unchained",
+        "text": "Best Original Song",
+        "count": 6
+      },
+      {
+        "text": "best original song",
+        "count": 5
+      },
+      {
+        "text": "Best original song",
+        "count": 1
+      },
+      {
+        "text": "BEST ORIGINAL SONG",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best motion picture drama",
+    "total_count": 13,
+    "top_variants": [
+      {
+        "text": "Best motion picture drama",
         "count": 8
       },
       {
-        "text": "best supporting actor for Django Unchained",
+        "text": "Best Motion Picture Drama",
         "count": 5
       }
     ]
   },
   {
-    "normalized": "best actress in a mini-series/tv movie",
-    "total_count": 13,
+    "normalized": "best supporting actress",
+    "total_count": 11,
     "top_variants": [
       {
-        "text": "Best actress in a mini-series/TV movie",
-        "count": 12
+        "text": "Best Supporting Actress",
+        "count": 7
       },
       {
-        "text": "best actress in a mini-series/TV movie",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best song at the",
-    "total_count": 13,
-    "top_variants": [
-      {
-        "text": "Best Song at the",
-        "count": 12
-      },
-      {
-        "text": "best song at the",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy or musical for",
-    "total_count": 13,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Comedy or Musical for",
-        "count": 9
-      },
-      {
-        "text": "best actress in a comedy or musical for",
+        "text": "best supporting actress",
         "count": 4
       }
     ]
   },
   {
-    "normalized": "best supporting actress in a motion picture",
-    "total_count": 13,
+    "normalized": "best supporting actress in a motion picture is",
+    "total_count": 10,
     "top_variants": [
       {
-        "text": "Best Supporting Actress in a Motion Picture",
-        "count": 6
+        "text": "Best supporting actress in a motion picture is",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "normalized": "best director for argo",
+    "total_count": 10,
+    "top_variants": [
+      {
+        "text": "Best Director for Argo",
+        "count": 9
       },
       {
-        "text": "Best supporting actress in a motion picture",
-        "count": 6
-      },
-      {
-        "text": "Best Supporting Actress In A Motion Picture",
+        "text": "Best director for ARGO",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor in a comedy or musical television series for",
-    "total_count": 13,
+    "normalized": "best motion picture",
+    "total_count": 10,
     "top_variants": [
       {
-        "text": "best actor in a comedy or musical TV series for",
-        "count": 13
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy series",
-    "total_count": 13,
-    "top_variants": [
+        "text": "Best Motion Picture",
+        "count": 8
+      },
       {
-        "text": "best actress in a comedy series",
-        "count": 13
+        "text": "best motion picture",
+        "count": 1
+      },
+      {
+        "text": "Best motion picture",
+        "count": 1
       }
     ]
   },
   {
     "normalized": "best picture",
-    "total_count": 13,
+    "total_count": 10,
     "top_variants": [
       {
         "text": "best picture",
-        "count": 7
+        "count": 6
       },
       {
         "text": "Best Picture",
-        "count": 5
+        "count": 3
       },
       {
         "text": "BEST PICTURE",
@@ -724,995 +242,203 @@
     ]
   },
   {
-    "normalized": "best actress in a motion picture drama",
-    "total_count": 13,
+    "normalized": "best supporting actor globe for",
+    "total_count": 9,
     "top_variants": [
       {
-        "text": "Best actress in a motion picture drama",
+        "text": "Best Supporting Actor Globe for",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actress for",
+    "total_count": 8,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actress for",
+        "count": 3
+      },
+      {
+        "text": "best supporting actress for",
+        "count": 3
+      },
+      {
+        "text": "Best Supporting Actress For",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best director motion picture",
+    "total_count": 8,
+    "top_variants": [
+      {
+        "text": "Best director motion picture",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a motion picture drama",
+    "total_count": 8,
+    "top_variants": [
+      {
+        "text": "Best Actor in a Motion Picture Drama",
+        "count": 4
+      },
+      {
+        "text": "Best actor in a motion picture drama",
+        "count": 3
+      },
+      {
+        "text": "Best Actor in A Motion Picture Drama",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actor for django unchained",
+    "total_count": 7,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actor for Django Unchained",
         "count": 5
       },
       {
-        "text": "Best Actress in a Motion Picture Drama",
-        "count": 4
-      },
-      {
-        "text": "best actress in a motion picture drama",
-        "count": 4
+        "text": "best supporting actor for Django Unchained",
+        "count": 2
       }
     ]
   },
   {
-    "normalized": "best actress, drama, for",
-    "total_count": 13,
-    "top_variants": [
-      {
-        "text": "best actress, drama, for",
-        "count": 12
-      },
-      {
-        "text": "Best Actress, Drama, for",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor for",
-    "total_count": 12,
-    "top_variants": [
-      {
-        "text": "best supporting actor for",
-        "count": 12
-      }
-    ]
-  },
-  {
-    "normalized": "best original song for motion picture http",
-    "total_count": 12,
-    "top_variants": [
-      {
-        "text": "best original song for motion picture http",
-        "count": 12
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a television series, comedy for",
-    "total_count": 12,
-    "top_variants": [
-      {
-        "text": "Best Actor in a TV Series, Comedy for",
-        "count": 12
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture, drama for",
-    "total_count": 12,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture, Drama for",
-        "count": 12
-      }
-    ]
-  },
-  {
-    "normalized": "best actor motion picture - drama for performance in",
-    "total_count": 12,
-    "top_variants": [
-      {
-        "text": "Best Actor Motion Picture - Drama for performance in",
-        "count": 12
-      }
-    ]
-  },
-  {
-    "normalized": "best actor who did not have sex with that woman",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "best actor who did not have sex with that woman",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best actress motion picture - comedy or musical at",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Actress Motion Picture - Comedy or Musical at",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy or musical movie for",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "best actress in a comedy or musical movie for",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress for les mis",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress for Les Mis",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture, comedy for silver linings playbook",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture, Comedy for Silver Linings Playbook",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a comedy or musical",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Actor in a comedy or musical",
-        "count": 10
-      },
-      {
-        "text": "best actor in a comedy or musical",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Motion Picture",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture, comedy or musical",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture, comedy or musical",
-        "count": 8
-      },
-      {
-        "text": "Best Motion Picture, Comedy or Musical",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a drama for lincoln at the",
-    "total_count": 11,
-    "top_variants": [
-      {
-        "text": "best actor in a drama for Lincoln at the",
-        "count": 11
-      }
-    ]
-  },
-  {
-    "normalized": "best song, unsurprisingly",
-    "total_count": 10,
-    "top_variants": [
-      {
-        "text": "Best Song, unsurprisingly",
-        "count": 10
-      }
-    ]
-  },
-  {
-    "normalized": "best director for motion picture",
-    "total_count": 10,
-    "top_variants": [
-      {
-        "text": "Best director for motion picture",
-        "count": 10
-      }
-    ]
-  },
-  {
-    "normalized": "best director and a standing ovation",
-    "total_count": 10,
-    "top_variants": [
-      {
-        "text": "Best Director and a standing ovation",
-        "count": 10
-      }
-    ]
-  },
-  {
-    "normalized": "best director - motion picture for",
-    "total_count": 10,
-    "top_variants": [
-      {
-        "text": "Best Director - Motion Picture for",
-        "count": 10
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a drama at the",
-    "total_count": 10,
-    "top_variants": [
-      {
-        "text": "best actress in a drama at the",
-        "count": 10
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor in a motion picture for his role in django unchained",
-    "total_count": 9,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor in a Motion Picture for his role in Django Unchained",
-        "count": 9
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a miniseries",
-    "total_count": 9,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Miniseries",
-        "count": 9
-      }
-    ]
-  },
-  {
-    "normalized": "best foreign film at",
-    "total_count": 9,
-    "top_variants": [
-      {
-        "text": "best foreign film at",
-        "count": 9
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture - drama at the",
-    "total_count": 9,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture - Drama at the",
-        "count": 9
-      }
-    ]
-  },
-  {
-    "normalized": "best song",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "Best Song",
-        "count": 7
-      },
-      {
-        "text": "best song",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedic or musical film",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "best actress in a comedic or musical film",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a musical or comedy golden globes 2013 http",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Musical or Comedy Golden Globes 2013 http",
-        "count": 7
-      },
-      {
-        "text": "Best  Actress in a Musical or Comedy Golden Globes 2013 http",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for homeland",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "Best Actress for Homeland",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a drama series",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "best actress in a drama series",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best director - motion picture",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "Best Director - Motion Picture",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best comedy/musical",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "Best Comedy/Musical",
-        "count": 4
-      },
-      {
-        "text": "best comedy/musical",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a musical or comedy award at",
-    "total_count": 8,
-    "top_variants": [
-      {
-        "text": "best actor in a musical or comedy award at",
-        "count": 8
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a television show",
+    "normalized": "best supporting actor, motion picture",
     "total_count": 7,
     "top_variants": [
       {
-        "text": "Best Supporting Actress in a TV show",
+        "text": "Best supporting actor, motion picture",
         "count": 7
       }
     ]
   },
   {
-    "normalized": "best supporting actress in a television movie, series, or miniseries for",
+    "normalized": "best supporting actress in a motion picture",
     "total_count": 7,
     "top_variants": [
       {
-        "text": "Best Supporting Actress in a TV Movie, Series, or Miniseries for",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a miniseries or television movie for",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Miniseries or TV Movie for",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for television drama",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best actor for TV drama",
+        "text": "Best Supporting Actress in a Motion Picture",
         "count": 6
       },
       {
-        "text": "best actor for TV drama",
+        "text": "Best supporting actress in a motion picture",
         "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor for",
+    "total_count": 7,
+    "top_variants": [
+      {
+        "text": "best actor for",
+        "count": 5
+      },
+      {
+        "text": "Best Actor for",
+        "count": 1
+      },
+      {
+        "text": "Best Actor For",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best screenplay for django unchained",
+    "total_count": 6,
+    "top_variants": [
+      {
+        "text": "Best Screenplay for Django Unchained",
+        "count": 4
+      },
+      {
+        "text": "best screenplay for Django Unchained",
+        "count": 1
+      },
+      {
+        "text": "BEST SCREENPLAY FOR DJANGO UNCHAINED",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best screenplay for",
+    "total_count": 6,
+    "top_variants": [
+      {
+        "text": "Best Screenplay for",
+        "count": 3
+      },
+      {
+        "text": "Best Screenplay For",
+        "count": 3
       }
     ]
   },
   {
     "normalized": "best television series - drama",
-    "total_count": 7,
+    "total_count": 5,
     "top_variants": [
-      {
-        "text": "Best TV Series - Drama",
-        "count": 4
-      },
       {
         "text": "Best TV series - Drama",
         "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a mini-series/tv movie at the",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Mini-Series/TV Movie at the",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy for silver linings playbook",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "best actress in a comedy for Silver Linings Playbook",
-        "count": 6
       },
       {
-        "text": "Best Actress In A Comedy for Silver Linings Playbook",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture",
-        "count": 5
-      },
-      {
-        "text": "Best actress in a motion picture",
-        "count": 1
-      },
-      {
-        "text": "Best actress in a Motion Picture",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy/musical in",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Comedy/Musical in",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor in a television show, miniseries or television movie",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best supporting actor in a TV show, miniseries or TV movie",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best screenplay - motion picture at the",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Screenplay - Motion Picture at the",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best foreign film",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best foreign film",
-        "count": 4
-      },
-      {
-        "text": "Best Foreign Film",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series, drama,",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best actress in a TV series, drama,",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series - comedy or musical http",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "best actress in a TV series - comedy or musical http",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best comedy or musical",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Comedy or Musical",
-        "count": 5
-      },
-      {
-        "text": "best comedy or musical",
+        "text": "Best TV Series - Drama",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best best television comedy/musical series",
-    "total_count": 7,
+    "normalized": "best actress in a comedy or musical for",
+    "total_count": 5,
     "top_variants": [
       {
-        "text": "best Best Television Comedy/Musical Series",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a musical/comedy",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "best actor in a musical/comedy",
-        "count": 6
-      },
-      {
-        "text": "Best Actor in a Musical/Comedy",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a dramatic film for",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "best actress in a dramatic film for",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture, drama, for his role in lincoln",
-    "total_count": 7,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Motion Picture, Drama, for his role in Lincoln",
-        "count": 7
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a mini-series or television movie for",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actress in a mini-series or TV movie for",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in mini-series/tv movie for",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actress in mini-series/TV movie for",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for television drama http",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actor for TV drama http",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best original score",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best Original Score",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best original song category, the golden globe",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best Original Song category, the Golden Globe",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy or musical",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actress in a comedy or musical",
+        "text": "best actress in a comedy or musical for",
         "count": 3
       },
       {
-        "text": "Best Actress in a Comedy or Musical",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, motion picture comedy or musical, for",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actress, motion picture comedy or musical, for",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in musical or comedy",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best Actress in Musical or Comedy",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best actress in a comedy",
-        "count": 4
-      },
-      {
-        "text": "Best Actress in a Comedy",
+        "text": "Best Actress in a Comedy or Musical for",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best supporting actor in tv",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best supporting actor in TV",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress for les miserables",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress for Les Miserables",
-        "count": 3
-      },
-      {
-        "text": "best supporting actress for Les Miserables",
-        "count": 2
-      },
-      {
-        "text": "Best Supporting Actress for LES MISERABLES",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television comedy/musical",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best actress in a TV comedy/musical",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best television series - comedy or musical http",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best TV series - comedy or musical http",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best television comedy/musical",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best TV comedy/musical",
-        "count": 5
-      },
-      {
-        "text": "Best TV Comedy/Musical",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture comedy/musical",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "Best actor in a motion picture comedy/musical",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best speech award",
-    "total_count": 6,
-    "top_variants": [
-      {
-        "text": "best speech award",
-        "count": 6
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor in a motion picture",
+    "normalized": "best actor in a television series, comedy for",
     "total_count": 5,
     "top_variants": [
       {
-        "text": "Best Supporting Actor in a Motion Picture",
-        "count": 4
-      },
-      {
-        "text": "Best supporting actor in a motion picture",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best miniseries or television movie",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best miniseries or TV movie",
-        "count": 2
-      },
-      {
-        "text": "Best Miniseries or TV Movie",
-        "count": 2
-      },
-      {
-        "text": "Best Miniseries or TV movie",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in miniseries/tv movie and first person to",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best actress in miniseries/TV movie and first person to",
+        "text": "Best Actor in a TV Series, Comedy for",
         "count": 5
       }
     ]
   },
   {
-    "normalized": "best actor in a miniseries",
+    "normalized": "best director - motion picture for",
     "total_count": 5,
     "top_variants": [
       {
-        "text": "best actor in a miniseries",
+        "text": "Best Director - Motion Picture for",
         "count": 5
       }
     ]
   },
   {
-    "normalized": "best hillary impression",
+    "normalized": "best picture, musical or comedy",
     "total_count": 5,
     "top_variants": [
       {
-        "text": "best Hillary impression",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a musical/comedy for",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best actress in a musical/comedy for",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture comedy or musical",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best actress in a motion picture comedy or musical",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in comedy or musical",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Actress in Comedy or Musical",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a supporting role in a motion picture the",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Actress In A Supporting Role in a Motion Picture the",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress, motion picture",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best supporting actress, motion picture",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best picture i will throw myself off a bridge",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Picture I will throw myself off a bridge",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best foreign language film",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Foreign Language Film",
-        "count": 3
-      },
-      {
-        "text": "Best foreign language film",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, television drama",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Actress, TV Drama",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in television drama for her work on",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best actress in TV drama for her work on",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best animated feature film",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Animated Feature Film",
-        "count": 4
-      },
-      {
-        "text": "best Animated Feature Film",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best director at the golden globes",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Director at the Golden Globes",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, comedy/musical",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Actor, Comedy/Musical",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in musical/comedy in",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "Best Actor in Musical/Comedy in",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best picture - comedy or musical http",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best picture - comedy or musical http",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for les miserables",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best actor for Les Miserables",
-        "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for lincoln",
-    "total_count": 5,
-    "top_variants": [
-      {
-        "text": "best actor for Lincoln",
+        "text": "best picture, musical or comedy",
         "count": 5
       }
     ]
@@ -1724,94 +450,6 @@
       {
         "text": "Best Comedy/Musical Movie http",
         "count": 5
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Actress in a TV series",
-        "count": 1
-      },
-      {
-        "text": "Best Actress in a TV Series",
-        "count": 1
-      },
-      {
-        "text": "Best Actress in a Television Series",
-        "count": 1
-      },
-      {
-        "text": "best actress in a TV series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a mini series or television movie",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Mini Series or TV Movie",
-        "count": 2
-      },
-      {
-        "text": "Best Actress in a Mini Series or TV movie",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a miniseries or television movie",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Actress in a miniseries or TV movie",
-        "count": 2
-      },
-      {
-        "text": "BEST ACTRESS IN A MINISERIES OR TV MOVIE",
-        "count": 1
-      },
-      {
-        "text": "Best actress in a miniseries or TV movie",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best comedy",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Comedy",
-        "count": 3
-      },
-      {
-        "text": "best comedy",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best picture tonight",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Picture tonight",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a television drama for",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "best actor in a TV drama for",
-        "count": 4
       }
     ]
   },
@@ -1834,139 +472,75 @@
     ]
   },
   {
-    "normalized": "best score at the",
+    "normalized": "best original score",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "best score at the",
+        "text": "Best Original Score",
         "count": 4
       }
     ]
   },
   {
-    "normalized": "best original song motion picture",
+    "normalized": "best song",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "Best Original Song Motion Picture",
+        "text": "Best Song",
         "count": 4
       }
     ]
   },
   {
-    "normalized": "best speech of the night",
+    "normalized": "best original song for",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "Best speech of the night",
+        "text": "Best Original Song for",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a miniseries/tv movie",
+    "total_count": 4,
+    "top_variants": [
+      {
+        "text": "Best actor in a miniseries/TV movie",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actor in tv",
+    "total_count": 4,
+    "top_variants": [
+      {
+        "text": "Best supporting actor in TV",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "normalized": "best actress for",
+    "total_count": 4,
+    "top_variants": [
+      {
+        "text": "best actress for",
         "count": 3
       },
       {
-        "text": "Best Speech of the night",
+        "text": "Best Actress for",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor in a miniseries or motion picture made for television for hatfields andamp",
+    "normalized": "best actress in a television comedy or musical",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "Best Actor in a Miniseries or Motion Picture Made for Television for Hatfields &amp",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a miniseries or television movie for",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Miniseries or TV Movie for",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for comedy/musical",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best actress for comedy/musical",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for silver linings playbook",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "best actress for Silver Linings Playbook",
-        "count": 3
-      },
-      {
-        "text": "Best Actress for Silver Linings Playbook",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series drama http",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "best actress in a TV series drama http",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actress television series comedy",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best actress tv series comedy",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best director for film argo",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Director for film Argo",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, musical/comedy for",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "best actor, musical/comedy for",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture comedy or musical",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture Comedy or Musical",
-        "count": 4
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture for comedy/musical",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture for Comedy/Musical",
+        "text": "Best actress in a TV comedy or musical",
         "count": 4
       }
     ]
@@ -1982,103 +556,59 @@
     ]
   },
   {
-    "normalized": "best actress for zero dark thirty",
+    "normalized": "best actress in a dramatic film for",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "best actress for Zero Dark Thirty",
-        "count": 2
-      },
-      {
-        "text": "Best Actress for ZERO DARK THIRTY",
-        "count": 1
-      },
-      {
-        "text": "Best Actress for Zero Dark Thirty",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture - drama",
-    "total_count": 4,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture - Drama",
+        "text": "best actress in a dramatic film for",
         "count": 4
       }
     ]
   },
   {
-    "normalized": "best actor and anne hathaway wins best featured actress for",
+    "normalized": "best-picture golden globes",
     "total_count": 4,
     "top_variants": [
       {
-        "text": "Best Actor and Anne Hathaway wins Best Featured Actress for",
+        "text": "best-picture Golden Globes",
         "count": 4
       }
     ]
   },
   {
-    "normalized": "best facial hair of the night",
+    "normalized": "best supporting actor in",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best facial hair of the night",
+        "text": "Best Supporting Actor in",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best supporting actress, television for",
+    "normalized": "best supporting actor for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Supporting Actress, TV for",
+        "text": "best supporting actor for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best support actress in television movie, series or miniseries",
+    "normalized": "best miniseries or television movie",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Support Actress in TV Movie, Series or Miniseries",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress for television performance in",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best supporting actress for TV performance in",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a television series, drama, for homeland",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Television Series, Drama, for Homeland",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best television drama",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best TV drama",
-        "count": 2
+        "text": "best miniseries or TV movie",
+        "count": 1
       },
       {
-        "text": "Best TV Drama",
+        "text": "Best Miniseries or TV movie",
+        "count": 1
+      },
+      {
+        "text": "Best Miniseries or TV Movie",
         "count": 1
       }
     ]
@@ -2098,215 +628,151 @@
     ]
   },
   {
-    "normalized": "best actress and first person to",
+    "normalized": "best original song for motion picture http",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best actress and first person to",
+        "text": "best original song for motion picture http",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best drama on golden globes",
+    "normalized": "best speech of the night",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best drama on Golden Globes",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, television movie or mini",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actor, TV movie or mini",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in miniseries for",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best actor in miniseries for",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress motion picture comedy or musical for silver linings playbook",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actress Motion Picture Comedy or Musical for Silver Linings Playbook",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, makes sassy",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actress, makes sassy",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for silver linings",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best actress for Silver Linings",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for musical",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best actress for musical",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress at",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress at",
+        "text": "Best speech of the night",
         "count": 2
       },
       {
-        "text": "best supporting actress at",
+        "text": "Best Speech of the night",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best screenplay - motion picture",
+    "normalized": "best actress in a motion picture",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Screenplay - Motion Picture",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best original screenplay",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best original screenplay",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best screenplay, motion picture",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Screenplay, motion picture",
+        "text": "Best Actress in a Motion Picture",
         "count": 2
       },
       {
-        "text": "Best Screenplay, Motion Picture",
+        "text": "Best actress in a motion picture",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor in a comedy",
+    "normalized": "best actress in a comedy or musical movie for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Actor in a Comedy",
+        "text": "best actress in a comedy or musical movie for",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actress for les miserables",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "best supporting actress for Les Miserables",
         "count": 2
       },
       {
-        "text": "Best Actor in a comedy",
+        "text": "Best Supporting Actress for LES MISERABLES",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best foreign film http",
+    "normalized": "best supporting actress in a motion picture for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best foreign film http",
+        "text": "Best Supporting Actress in a Motion Picture for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best speech",
+    "normalized": "best actress in a musical or comedy golden globes 2013 http",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best speech",
+        "text": "Best Actress in a Musical or Comedy Golden Globes 2013 http",
         "count": 2
       },
       {
-        "text": "Best #GoldenGlobes speech",
+        "text": "Best  Actress in a Musical or Comedy Golden Globes 2013 http",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actress in a television series/drama for",
+    "normalized": "best supporting actress http",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Actress in a TV Series/Drama for",
+        "text": "best supporting actress http",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best actress in a drama",
+    "normalized": "best motion picture screenplay for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best actress in a drama",
-        "count": 1
-      },
-      {
-        "text": "Best Actress in a Drama",
-        "count": 1
-      },
-      {
-        "text": "Best Actress In A Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best animated film",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Animated Film",
+        "text": "best motion picture screenplay for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best performance by an actress in a television musical or comedy for",
+    "normalized": "best foreign film",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best performance by an actress in a TV musical or comedy for",
+        "text": "Best Foreign Film",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best foreign language film",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Foreign Language Film",
+        "count": 2
+      },
+      {
+        "text": "Best foreign language film",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress for homeland",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Actress for Homeland",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best animated feature film",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Animated Feature Film",
         "count": 3
       }
     ]
@@ -2350,16 +816,6 @@
     ]
   },
   {
-    "normalized": "best director for awesome argo",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best director for awesome Argo",
-        "count": 3
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actr",
     "total_count": 3,
     "top_variants": [
@@ -2370,216 +826,124 @@
     ]
   },
   {
-    "normalized": "best television series, musical or comedy, at the",
+    "normalized": "best comedy",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best TV series, musical or comedy, at the",
+        "text": "Best Comedy",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best comedy series at the globes",
+    "normalized": "best best television comedy/musical series",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Comedy Series at the Globes",
+        "text": "best Best Television Comedy/Musical Series",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best actor in a comedy/musical for les miserables",
+    "normalized": "best comedy/musical",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best actor in a comedy/musical for Les Miserables",
+        "text": "Best Comedy/Musical",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best motion picture, comedy or musical",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Motion Picture, Comedy or Musical",
         "count": 2
       },
       {
-        "text": "Best Actor in a Comedy/Musical for Les Miserables",
+        "text": "Best Motion Picture, comedy or musical",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor, comedy or musical",
+    "normalized": "best picture - comedy or musical http",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Actor, Comedy or Musical",
+        "text": "best picture - comedy or musical http",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a motion picture drama",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Actress in a Motion Picture Drama",
         "count": 2
       },
       {
-        "text": "best actor, comedy or musical",
+        "text": "Best actress in a motion picture drama",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor in a motion picture, comedy or musical for",
+    "normalized": "best actor in a motion picture",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "best actor in a motion picture, comedy or musical for",
-        "count": 2
-      },
-      {
-        "text": "Best Actor in a Motion Picture, Comedy or Musical for",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best director - motion picture- for argo http",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Director - Motion Picture- for Argo http",
+        "text": "Best Actor in a Motion Picture",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best motion picture - comedy or musical",
+    "normalized": "best actor in a motion picture, drama for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Motion Picture - Comedy or Musical",
-        "count": 2
-      },
-      {
-        "text": "Best motion picture - comedy or musical",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture - comedy or musical at",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture - Comedy or Musical at",
+        "text": "Best Actor in a Motion Picture, Drama for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best motion picture, comedy/musical",
+    "normalized": "best actor, drama for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Motion Picture, Comedy/Musical",
+        "text": "best actor, drama for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best actress drama",
+    "normalized": "best actor and anne hathaway wins best featured actress for",
     "total_count": 3,
     "top_variants": [
       {
-        "text": "Best Actress Drama",
+        "text": "Best Actor and Anne Hathaway wins Best Featured Actress for",
         "count": 3
       }
     ]
   },
   {
-    "normalized": "best actor drama",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actor Drama",
-        "count": 2
-      },
-      {
-        "text": "best actor drama",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor - drama",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actor - Drama",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a musical or comedy http",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Actor In A Musical Or Comedy http",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best lead actor in a drama for",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best lead actor in a drama for",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best picture - drama",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Picture - Drama",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture - comedy or musical http",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture - Comedy Or Musical http",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best movie honors at",
-    "total_count": 3,
-    "top_variants": [
-      {
-        "text": "best movie honors at",
-        "count": 3
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting",
+    "normalized": "best supporting actor in a motion picture",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best supporting",
+        "text": "Best Supporting Actor in a Motion Picture",
         "count": 1
       },
       {
-        "text": "Best Supporting",
+        "text": "Best supporting actor in a motion picture",
         "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor for django unchained http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor for Django Unchained http",
-        "count": 2
       }
     ]
   },
@@ -2598,22 +962,16 @@
     ]
   },
   {
-    "normalized": "best supporting actress in a television movie, series, or miniseries",
+    "normalized": "best supporting actress in a television series",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Supporting Actress in a TV Movie, Series, or Miniseries",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a miniseries for downton abbey",
-    "total_count": 2,
-    "top_variants": [
+        "text": "Best Supporting Actress in a Television Series",
+        "count": 1
+      },
       {
-        "text": "Best Supporting Actress in a miniseries for Downton Abbey",
-        "count": 2
+        "text": "Best Supporting Actress in a TV series",
+        "count": 1
       }
     ]
   },
@@ -2638,32 +996,36 @@
     ]
   },
   {
-    "normalized": "best actress for television movie role in game change",
+    "normalized": "best actor in a television drama for",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actress for TV movie role in Game Change",
+        "text": "best actor in a TV drama for",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best actress in a miniseries or movie",
+    "normalized": "best supporting actress television series, miniseries, or television movie",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actress in a miniseries or movie",
+        "text": "Best supporting actress TV series, miniseries, or TV movie",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best performance by an actress in a television series at the",
+    "normalized": "best actor for television drama",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Performance by an Actress in a TV series at the",
-        "count": 2
+        "text": "Best actor for TV drama",
+        "count": 1
+      },
+      {
+        "text": "best actor for TV drama",
+        "count": 1
       }
     ]
   },
@@ -2696,73 +1058,39 @@
     ]
   },
   {
-    "normalized": "best actor in a television series",
+    "normalized": "best television drama",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actor in a TV series",
+        "text": "Best TV Drama",
         "count": 1
       },
       {
-        "text": "Best actor in a TV series",
+        "text": "best TV drama",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor in a drama at the golden globes in la",
+    "normalized": "best original song motion picture",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actor in a drama at the Golden Globes in LA",
+        "text": "Best Original Song Motion Picture",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best original score, motion picture",
+    "normalized": "best song at the",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best original score, motion picture",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best sound",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Sound",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best original song - motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Original Song - Motion Picture",
+        "text": "best song at the",
         "count": 1
       },
       {
-        "text": "best original song - motion picture",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best original song in a motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Original Song in a Motion Picture",
-        "count": 1
-      },
-      {
-        "text": "Best original song in a motion picture",
+        "text": "Best Song at the",
         "count": 1
       }
     ]
@@ -2778,11 +1106,11 @@
     ]
   },
   {
-    "normalized": "best gay porn face",
+    "normalized": "best actor in a miniseries or motion picture made for television for hatfields andamp",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best gay porn face",
+        "text": "Best Actor in a Miniseries or Motion Picture Made for Television for Hatfields &amp",
         "count": 2
       }
     ]
@@ -2798,6 +1126,16 @@
       {
         "text": "Best Actor In A Miniseries Or TV Movie",
         "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor who did not have sex with that woman",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actor who did not have sex with that woman",
+        "count": 2
       }
     ]
   },
@@ -2836,6 +1174,26 @@
     ]
   },
   {
+    "normalized": "best actress in a comedy for silver linings playbook",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actress in a comedy for Silver Linings Playbook",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a comedy or musical",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actress in a comedy or musical",
+        "count": 2
+      }
+    ]
+  },
+  {
     "normalized": "best actress in a musical or comedy",
     "total_count": 2,
     "top_variants": [
@@ -2850,115 +1208,51 @@
     ]
   },
   {
-    "normalized": "best actress, motion picture comedy or musical for silver linings playbook",
+    "normalized": "best actress for comedy/musical",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Actress, Motion Picture Comedy or Musical for Silver Linings Playbook",
+        "text": "Best actress for comedy/musical",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best actress in a comedy/musical for",
+    "normalized": "best original score - motion picture is",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Actress in a comedy/musical for",
+        "text": "Best original score - motion picture is",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best moments",
+    "normalized": "best supporting actress for les mis",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best moments",
+        "text": "Best Supporting Actress for Les Mis",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best supporting actress motion picture",
+    "normalized": "best actress in a supporting role in a motion picture the",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best supporting actress motion picture",
-        "count": 1
-      },
-      {
-        "text": "Best Supporting Actress Motion Picture",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting hug",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Supporting Hug",
+        "text": "Best Actress In A Supporting Role in a Motion Picture the",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best supporting pageboy goes to",
+    "normalized": "best screenplay - motion picture",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best supporting pageboy goes to",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress for motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best supporting actress for motion picture",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a musical or comedy http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actress in a musical or comedy http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress comedy/musical for silver linings playbook http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actress Comedy/Musical for Silver Linings Playbook http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in les miserables",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in Les Miserables",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best screenplay in a motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Screenplay in a Motion Picture",
+        "text": "Best Screenplay - Motion Picture",
         "count": 2
       }
     ]
@@ -2974,75 +1268,35 @@
     ]
   },
   {
-    "normalized": "best actress in a musical or comedy golden globes 2013",
+    "normalized": "best screenplay, motion picture",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best  Actress in a Musical or Comedy Golden Globes 2013",
+        "text": "Best Screenplay, Motion Picture",
         "count": 1
       },
       {
-        "text": "Best Actress in a Musical or Comedy Golden Globes 2013",
+        "text": "Best Screenplay, motion picture",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best original screenplay for saying",
+    "normalized": "best actor in a comedy",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Original Screenplay for Saying",
+        "text": "Best Actor in a Comedy",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best actor in a television comedy/musical",
+    "normalized": "best actor in a comedy or musical television series for",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actor in a TV comedy/musical",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best performance by don cheadle in a show nobody likes at all but it has don cheadle in it so whatever",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best performance by Don Cheadle in a show nobody likes at all but it has Don Cheadle in it so whatever",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a television series, comedy or musical for his role on house of lies",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Television Series, Comedy or Musical for his role on House of Lies",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best screenplay for django unchained http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best screenplay for Django Unchained http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television drama",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best actress in a TV drama",
+        "text": "best actor in a comedy or musical TV series for",
         "count": 2
       }
     ]
@@ -3058,26 +1312,12 @@
     ]
   },
   {
-    "normalized": "best tan by an actress",
+    "normalized": "best actress in a television series drama http",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Tan by an Actress",
+        "text": "best actress in a TV series drama http",
         "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series drama",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actress in a TV series drama",
-        "count": 1
-      },
-      {
-        "text": "Best Actress in a Television Series Drama",
-        "count": 1
       }
     ]
   },
@@ -3096,12 +1336,16 @@
     ]
   },
   {
-    "normalized": "best drama television actress",
+    "normalized": "best actress in a television series",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Drama TV Actress",
-        "count": 2
+        "text": "Best Actress in a TV Series",
+        "count": 1
+      },
+      {
+        "text": "best actress in a TV series",
+        "count": 1
       }
     ]
   },
@@ -3116,32 +1360,16 @@
     ]
   },
   {
-    "normalized": "best actress television series- drama for",
+    "normalized": "best actress in a drama",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Actress TV Series- Drama for",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best television drama actress for homeland http",
-    "total_count": 2,
-    "top_variants": [
+        "text": "best actress in a drama",
+        "count": 1
+      },
       {
-        "text": "best TV drama actress for Homeland http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in television drama for homeland",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actress in TV drama for Homeland",
-        "count": 2
+        "text": "Best Actress In A Drama",
+        "count": 1
       }
     ]
   },
@@ -3160,66 +1388,30 @@
     ]
   },
   {
-    "normalized": "best television actress",
+    "normalized": "best actress in a comedy",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best TV actress",
+        "text": "Best Actress in a Comedy",
         "count": 1
       },
       {
-        "text": "best TV actress",
+        "text": "best actress in a comedy",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best television comedy actress http",
+    "normalized": "best speech",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best TV comedy actress http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy or musical series",
-    "total_count": 2,
-    "top_variants": [
+        "text": "Best #GoldenGlobes speech",
+        "count": 1
+      },
       {
-        "text": "Best actress in a comedy or musical series",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best original score for",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Original Score for",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best original song, while elton john remains pressed",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Original Song, while Elton John remains pressed",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best hidden camera hulk hogan sex tape",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best hidden camera Hulk Hogan sex tape",
-        "count": 2
+        "text": "Best speech",
+        "count": 1
       }
     ]
   },
@@ -3238,25 +1430,21 @@
     ]
   },
   {
-    "normalized": "best director of a motion picture",
+    "normalized": "best director at the golden globes",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Director of a Motion Picture",
-        "count": 1
-      },
-      {
-        "text": "Best director of a motion picture",
-        "count": 1
+        "text": "Best Director at the Golden Globes",
+        "count": 2
       }
     ]
   },
   {
-    "normalized": "again for at the - argofuck yourself",
+    "normalized": "best director for film argo",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "#BestDirector AGAIN for #Argo at the #GoldenGlobes - #Academy Argofuck yourself",
+        "text": "Best Director for film Argo",
         "count": 2
       }
     ]
@@ -3276,46 +1464,36 @@
     ]
   },
   {
-    "normalized": "best television comedy",
+    "normalized": "best director - motion picture",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best TV comedy",
+        "text": "Best Director - Motion Picture",
         "count": 2
       }
     ]
   },
   {
-    "normalized": "best comedy series",
+    "normalized": "best television series - comedy or musical http",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best comedy series",
+        "text": "best TV series - comedy or musical http",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best television comedy/musical",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "Best TV comedy/musical",
         "count": 1
       },
       {
-        "text": "Best Comedy Series",
+        "text": "Best TV Comedy/Musical",
         "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best television comedy series",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best TV comedy series",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best director prize",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Director prize",
-        "count": 2
       }
     ]
   },
@@ -3340,31 +1518,39 @@
     ]
   },
   {
-    "normalized": "best actor, comedy or musical for",
+    "normalized": "best actor in a motion picture, comedy or musical for",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Actor, Comedy or Musical for",
-        "count": 2
+        "text": "Best Actor in a Motion Picture, Comedy or Musical for",
+        "count": 1
+      },
+      {
+        "text": "best actor in a motion picture, comedy or musical for",
+        "count": 1
       }
     ]
   },
   {
-    "normalized": "best husband of the year",
+    "normalized": "best motion picture - comedy or musical",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Husband of the Year",
-        "count": 2
+        "text": "Best Motion Picture - Comedy or Musical",
+        "count": 1
+      },
+      {
+        "text": "Best motion picture - comedy or musical",
+        "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor for his role as jean valjean in les miserables",
+    "normalized": "best comedy or musical",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Actor for His role as Jean Valjean in Les Miserables",
+        "text": "Best Comedy or Musical",
         "count": 2
       }
     ]
@@ -3398,11 +1584,11 @@
     ]
   },
   {
-    "normalized": "best motion picture comedy/musical",
+    "normalized": "best motion picture for comedy/musical",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "Best Motion Picture Comedy/Musical",
+        "text": "Best Motion Picture for Comedy/Musical",
         "count": 2
       }
     ]
@@ -3418,6 +1604,16 @@
     ]
   },
   {
+    "normalized": "best actor for les miserables",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actor for Les Miserables",
+        "count": 2
+      }
+    ]
+  },
+  {
     "normalized": "best song at golden globes",
     "total_count": 2,
     "top_variants": [
@@ -3428,11 +1624,11 @@
     ]
   },
   {
-    "normalized": "best actor at",
+    "normalized": "best actress drama",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actor at",
+        "text": "Best Actress Drama",
         "count": 2
       }
     ]
@@ -3448,86 +1644,66 @@
     ]
   },
   {
-    "normalized": "best actress in a motion picture, drama, for",
+    "normalized": "best actress for zero dark thirty",
     "total_count": 2,
     "top_variants": [
       {
-        "text": "best actress in a motion picture, drama, for",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture for drama",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture for Drama",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a drama for his masterful performance in",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actor in a drama for his masterful performance in",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actor-in a motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actor-In  A Motion Picture",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a motion picture, drama, for zero dark thirty",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Motion Picture, Drama,  for Zero Dark Thirty",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy series for",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actress in a comedy series for",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best drama motion picture",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Drama Motion Picture",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best picture, drama",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Picture, Drama",
+        "text": "Best Actress for Zero Dark Thirty",
         "count": 1
       },
       {
-        "text": "best picture, drama",
+        "text": "best actress for Zero Dark Thirty",
         "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a motion picture, drama for",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "Best Actress in a Motion Picture, Drama for",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best actor drama",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "Best Actor Drama",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a drama for lincoln at the",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actor in a drama for Lincoln at the",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best motion picture - drama",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "Best Motion Picture - Drama",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a musical or comedy award at",
+    "total_count": 2,
+    "top_variants": [
+      {
+        "text": "best actor in a musical or comedy award at",
+        "count": 2
       }
     ]
   },
@@ -3546,26 +1722,6 @@
     ]
   },
   {
-    "normalized": "best actor for lez messyrobla",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actor for Lez Messyrobla",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a motion picture drama http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "best actor in a motion picture drama http",
-        "count": 2
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actor in a television series",
     "total_count": 2,
     "top_variants": [
@@ -3576,51 +1732,31 @@
     ]
   },
   {
-    "normalized": "best actor in a motion picture - comedy or musical for les miserables http",
-    "total_count": 2,
-    "top_variants": [
-      {
-        "text": "Best Actor In a Motion Picture - Comedy Or Musical for Les Miserables http",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "normalized": "best tits",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best tits",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress, i will literally get on a plane to la and stab helen hunt in the tit",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress, I will literally get on a plane to LA and stab Helen Hunt in the tit",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best personality on the red carpet tonight",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best personality on the red carpet tonight",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actor in a movie",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Supporting Actor in a Movie",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best supporting",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actor for django unchained http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actor for Django Unchained http",
         "count": 1
       }
     ]
@@ -3646,6 +1782,16 @@
     ]
   },
   {
+    "normalized": "best supporting actress in a television movie, series, or miniseries",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actress in a TV Movie, Series, or Miniseries",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best supporting actress for tv, miniseries, etc",
     "total_count": 1,
     "top_variants": [
@@ -3666,21 +1812,31 @@
     ]
   },
   {
-    "normalized": "best supporting actor for motion picture",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor for motion picture",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actress in a drama",
     "total_count": 1,
     "top_variants": [
       {
         "text": "best supporting actress in a drama",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actress in a miniseries for downton abbey",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actress in a miniseries for Downton Abbey",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best supporting actor at",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best supporting actor at",
         "count": 1
       }
     ]
@@ -3726,6 +1882,16 @@
     ]
   },
   {
+    "normalized": "best supporting actress, television for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actress, TV for",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best supporting actress, and i",
     "total_count": 1,
     "top_variants": [
@@ -3761,16 +1927,6 @@
     "top_variants": [
       {
         "text": "Best Mini-Series or TV",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress for television performance for downton abbey",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress for TV performance for Downton Abbey",
         "count": 1
       }
     ]
@@ -3846,16 +2002,6 @@
     ]
   },
   {
-    "normalized": "best miniseries",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best Miniseries",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best miniseries or television movie award",
     "total_count": 1,
     "top_variants": [
@@ -3876,131 +2022,21 @@
     ]
   },
   {
-    "normalized": "best mini-series or television movie category",
+    "normalized": "best actress in a mini-series or television movie for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Mini-Series or TV Movie Category",
+        "text": "best actress in a mini-series or TV movie for",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best television mini-series",
+    "normalized": "best actress in a miniseries or television movie for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best TV Mini-series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in television movie",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in TV Movie",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for miniseries/tv movie",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress for miniseries/tv movie",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a TV Series for",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in mini-series or television movie for game change",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in Mini-series or TV Movie for Game Change",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television movie for playing",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress in a TV Movie for playing",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress - mini-series",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best actress - mini-series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best life",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best Life",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best television actress for sara palin portrayal http",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best TV actress for Sara Palin portrayal http",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a miniseries for game change",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Miniseries for Game Change",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a comedy series, i",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actor in a comedy series, I",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best tux of the night",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Tux of the night",
+        "text": "Best Actress in a Miniseries or TV Movie for",
         "count": 1
       }
     ]
@@ -4011,6 +2047,16 @@
     "top_variants": [
       {
         "text": "best supporting actor award like he did Inglorious Basterds",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in mini-series/tv movie for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actress in mini-series/TV movie for",
         "count": 1
       }
     ]
@@ -4066,31 +2112,11 @@
     ]
   },
   {
-    "normalized": "best actor in a television series or drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best actor in a TV series or drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor television series or drama",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Actor TV Series or Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best television drama actor",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best TV drama actor",
         "count": 1
       }
     ]
@@ -4131,16 +2157,6 @@
     "top_variants": [
       {
         "text": "Best Supporting Ginger Who Also Makes My Panties Wet",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor for a television series drama for homeland",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor for a TV Series Drama for Homeland",
         "count": 1
       }
     ]
@@ -4196,21 +2212,21 @@
     ]
   },
   {
-    "normalized": "best actor in television series",
+    "normalized": "best actor for television drama http",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor in TV series",
+        "text": "best actor for TV drama http",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor television series drama",
+    "normalized": "best actor in television series",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor TV Series Drama",
+        "text": "Best Actor in TV series",
         "count": 1
       }
     ]
@@ -4246,16 +2262,6 @@
     ]
   },
   {
-    "normalized": "best actor in television drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor in TV Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor television series for drama for homeland, was rooting for jeff daniels, but hey",
     "total_count": 1,
     "top_variants": [
@@ -4281,26 +2287,6 @@
     "top_variants": [
       {
         "text": "Best drama series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best television series either",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best TV series either",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best humans",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best humans",
         "count": 1
       }
     ]
@@ -4336,31 +2322,11 @@
     ]
   },
   {
-    "normalized": "best drama on the golden globes",
+    "normalized": "best actress and first person to",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best drama on the Golden Globes",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a television drama series for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor in a TV Drama Series for",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, television series drama for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor, TV Series Drama for",
+        "text": "best actress and first person to",
         "count": 1
       }
     ]
@@ -4391,16 +2357,6 @@
     "top_variants": [
       {
         "text": "Best Actor in Tv Series Drama Golden Globes 2013  http",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best show ever",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best show ever",
         "count": 1
       }
     ]
@@ -4456,11 +2412,11 @@
     ]
   },
   {
-    "normalized": "best show in the history of tv",
+    "normalized": "best original score, motion picture",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best show in the history of TV",
+        "text": "Best original score, motion picture",
         "count": 1
       }
     ]
@@ -4546,6 +2502,16 @@
     ]
   },
   {
+    "normalized": "best original song - motion picture",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Original Song - Motion Picture",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best original song i",
     "total_count": 1,
     "top_variants": [
@@ -4586,6 +2552,16 @@
     ]
   },
   {
+    "normalized": "best song, unsurprisingly",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Song, unsurprisingly",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "for , it s the best",
     "total_count": 1,
     "top_variants": [
@@ -4601,16 +2577,6 @@
     "top_variants": [
       {
         "text": "best performance",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best original song at the golden globes in la for skyfall",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Original Song at the Golden Globes in LA for Skyfall",
         "count": 1
       }
     ]
@@ -4666,6 +2632,16 @@
     ]
   },
   {
+    "normalized": "best supporting actress for television performance in",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best supporting actress for TV performance in",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best golden globes acceptance speech",
     "total_count": 1,
     "top_variants": [
@@ -4676,11 +2652,11 @@
     ]
   },
   {
-    "normalized": "best loser",
+    "normalized": "best supporting actress in a television movie, series, or miniseries for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best loser",
+        "text": "Best Supporting Actress in a TV Movie, Series, or Miniseries for",
         "count": 1
       }
     ]
@@ -4706,21 +2682,21 @@
     ]
   },
   {
-    "normalized": "best score, motion picture for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Score, Motion Picture for",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best necklace",
     "total_count": 1,
     "top_variants": [
       {
         "text": "best necklace",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best gay porn face",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best gay porn face",
         "count": 1
       }
     ]
@@ -4736,11 +2712,11 @@
     ]
   },
   {
-    "normalized": "best actor in a mini-series or television movie",
+    "normalized": "best actor in a miniseries",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor in a mini-series or TV movie",
+        "text": "best actor in a miniseries",
         "count": 1
       }
     ]
@@ -4751,6 +2727,16 @@
     "top_variants": [
       {
         "text": "Best Performance by an Actor in a Mini Series or Movie Made for TV",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a mini-series/tv movie at the",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actor in a Mini-Series/TV Movie at the",
         "count": 1
       }
     ]
@@ -4771,6 +2757,16 @@
     "top_variants": [
       {
         "text": "Best Actor in a TV Miniseries",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor, television movie or mini",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actor, TV movie or mini",
         "count": 1
       }
     ]
@@ -4816,31 +2812,11 @@
     ]
   },
   {
-    "normalized": "best actor in a mini-series or motion picture made for television",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor in a Mini-Series or Motion Picture Made for Television",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best affair ever",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Affair Ever",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, miniseries for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor, Miniseries for",
         "count": 1
       }
     ]
@@ -4866,16 +2842,6 @@
     ]
   },
   {
-    "normalized": "best use of monotone in an acceptance speech",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Use Of Monotone In An Acceptance Speech",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor in a miniseries or motion picture made for television",
     "total_count": 1,
     "top_variants": [
@@ -4886,21 +2852,21 @@
     ]
   },
   {
-    "normalized": "best television movie or miniseries actor",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best TV movie or miniseries actor",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best real life quote award",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Real Life Quote award",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best picture nominee lincoln",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Picture nominee Lincoln",
         "count": 1
       }
     ]
@@ -5006,11 +2972,11 @@
     ]
   },
   {
-    "normalized": "all the bests",
+    "normalized": "best actress motion picture comedy or musical for silver linings playbook",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "all the bests",
+        "text": "Best Actress Motion Picture Comedy or Musical for Silver Linings Playbook",
         "count": 1
       }
     ]
@@ -5041,6 +3007,16 @@
     "top_variants": [
       {
         "text": "Best Picture award",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress, motion picture comedy or musical for silver linings playbook",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actress, Motion Picture Comedy or Musical for Silver Linings Playbook",
         "count": 1
       }
     ]
@@ -5106,16 +3082,6 @@
     ]
   },
   {
-    "normalized": "best actress in a motion picture comedy or musical, silver linings playbook",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress in a motion picture comedy or musical, Silver Linings Playbook",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best speech of the night so far",
     "total_count": 1,
     "top_variants": [
@@ -5146,21 +3112,11 @@
     ]
   },
   {
-    "normalized": "best ensemble performance",
+    "normalized": "best actress in a musical/comedy for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best ensemble performance",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy or musical at the",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Comedy Or Musical at the",
+        "text": "best actress in a musical/comedy for",
         "count": 1
       }
     ]
@@ -5196,11 +3152,11 @@
     ]
   },
   {
-    "normalized": "best actress for her performance in silver linings playbook",
+    "normalized": "best actress for silver linings",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actress for her performance in Silver Linings Playbook",
+        "text": "best actress for Silver Linings",
         "count": 1
       }
     ]
@@ -5316,6 +3272,16 @@
     ]
   },
   {
+    "normalized": "best supporting actress in",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Supporting Actress in",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best peter pan haircut at the golden globes",
     "total_count": 1,
     "top_variants": [
@@ -5386,16 +3352,6 @@
     ]
   },
   {
-    "normalized": "best supporting actress, motion picture for les miserables",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best supporting actress, motion picture for Les Miserables",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actor in a television series or movie",
     "total_count": 1,
     "top_variants": [
@@ -5411,16 +3367,6 @@
     "top_variants": [
       {
         "text": "best dressed and best smile",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress - motion picture for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress - Motion Picture for",
         "count": 1
       }
     ]
@@ -5446,31 +3392,11 @@
     ]
   },
   {
-    "normalized": "best supporting actress in a motion picture for les miserables at the",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in a Motion Picture for Les Miserables at the",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actor at golden globes",
     "total_count": 1,
     "top_variants": [
       {
         "text": "best supporting actor at golden globes",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor in a series or television movie http",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best supporting actor in a series or TV movie http",
         "count": 1
       }
     ]
@@ -5516,41 +3442,21 @@
     ]
   },
   {
+    "normalized": "best actress in a musical or comedy http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actress in a musical or comedy http",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actress in a motion picture, musical or comedy http",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Actress in a Motion Picture, Musical or Comedy http",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actor, television for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actor, TV for",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor miniseries and is currently telling movie studios to suck it mentally for saying no to handamp",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor Miniseries and is currently telling movie studios to suck it mentally for saying no to H&amp",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best supporting actress in a motion picture for les miserables",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Supporting Actress in a Motion Picture for Les Miserables",
         "count": 1
       }
     ]
@@ -5566,21 +3472,21 @@
     ]
   },
   {
-    "normalized": "lucky cow got to snog batman andamp",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "#BestSupportingActress #GoldenGlobes lucky cow got to snog Batman &amp",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best supporting actress xd",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Supporting Actress XD",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best screenplay - motion picture at the",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Screenplay - Motion Picture at the",
         "count": 1
       }
     ]
@@ -5656,6 +3562,16 @@
     ]
   },
   {
+    "normalized": "best actor in a television comedy/musical",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor in a TV comedy/musical",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best drunken acceptance speech of the night",
     "total_count": 1,
     "top_variants": [
@@ -5696,6 +3612,16 @@
     ]
   },
   {
+    "normalized": "best performance by don cheadle in a show nobody likes at all but it has don cheadle in it so whatever",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best performance by Don Cheadle in a show nobody likes at all but it has Don Cheadle in it so whatever",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best television musical or comedy for house of lies http",
     "total_count": 1,
     "top_variants": [
@@ -5706,11 +3632,11 @@
     ]
   },
   {
-    "normalized": "best comedy/musical actor",
+    "normalized": "best actor in a television series, comedy or musical for his role on house of lies",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best #television comedy/musical actor #goldenglobes",
+        "text": "Best Actor in a Television Series, Comedy or Musical for his role on House of Lies",
         "count": 1
       }
     ]
@@ -5721,16 +3647,6 @@
     "top_variants": [
       {
         "text": "Best Actor in a Television Series in a Comedy or Musical",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a comedy for house of lies",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actor in a comedy for House of Lies",
         "count": 1
       }
     ]
@@ -5766,16 +3682,6 @@
     ]
   },
   {
-    "normalized": "best supporting actress for lay mizzerablues",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best supporting actress for Lay Mizzerablues",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor, television comedy award for showtime",
     "total_count": 1,
     "top_variants": [
@@ -5791,16 +3697,6 @@
     "top_variants": [
       {
         "text": "Best Picture I will thrown myself off a bridge",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor comedy and the entire world collectively goes",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor Comedy and the entire world collectively goes",
         "count": 1
       }
     ]
@@ -5831,6 +3727,16 @@
     "top_variants": [
       {
         "text": "best hairstyle",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best performance by an actress in a television series at the",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Performance by an Actress in a TV series at the",
         "count": 1
       }
     ]
@@ -5871,6 +3777,26 @@
     "top_variants": [
       {
         "text": "Best Performance In All The",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a television series",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best actor in a TV series",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor television series - comedy or musical",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best actor TV series - comedy or musical",
         "count": 1
       }
     ]
@@ -5946,16 +3872,6 @@
     ]
   },
   {
-    "normalized": "best performance by an actress in a television series, drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Performance by an Actress in a TV Series, Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actress in a television series, drama, for her role in homeland",
     "total_count": 1,
     "top_variants": [
@@ -6006,21 +3922,11 @@
     ]
   },
   {
-    "normalized": "best actress - television series - drama for homeland",
+    "normalized": "best actress in a television series drama",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actress - TV Series - Drama for Homeland",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress in a",
+        "text": "best actress in a TV series drama",
         "count": 1
       }
     ]
@@ -6036,11 +3942,11 @@
     ]
   },
   {
-    "normalized": "best actress in a television series - drama for",
+    "normalized": "best tan by an actress",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actress in a TV Series - drama for",
+        "text": "Best Tan by an Actress",
         "count": 1
       }
     ]
@@ -6061,16 +3967,6 @@
     "top_variants": [
       {
         "text": "Best Supporting Actress at Golden Globes 2013",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a television series drama for homeland, praises bold female characters",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a TV Series Drama for Homeland, praises bold female characters",
         "count": 1
       }
     ]
@@ -6136,31 +4032,21 @@
     ]
   },
   {
-    "normalized": "best supporting actress in a motion picture http",
+    "normalized": "best animated film",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Supporting Actress in a Motion Picture http",
+        "text": "Best Animated Film",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best animated feature",
+    "normalized": "best actress television series- drama for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Animated Feature",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, television series,",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress, TV Series,",
+        "text": "Best Actress TV Series- Drama for",
         "count": 1
       }
     ]
@@ -6206,6 +4092,16 @@
     ]
   },
   {
+    "normalized": "best actress in a television comedy/musical",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best actress in a TV comedy/musical",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actress in television comedy/musical",
     "total_count": 1,
     "top_variants": [
@@ -6221,6 +4117,26 @@
     "top_variants": [
       {
         "text": "Best Actress in a TV series comedy/musical",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a television series - comedy or musical http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actress in a TV series - comedy or musical http",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best performance by an actress in a television musical or comedy for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best performance by an actress in a TV musical or comedy for",
         "count": 1
       }
     ]
@@ -6306,16 +4222,6 @@
     ]
   },
   {
-    "normalized": "best seat in the house",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best seat in the house",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actress for television series,musical or comedy",
     "total_count": 1,
     "top_variants": [
@@ -6336,31 +4242,21 @@
     ]
   },
   {
-    "normalized": "best actress in a comedy for the great",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Comedy for the great",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress in a comedy television series - comedy or musical for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Comedy TV series - comedy or musical for",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actress in a television series - comedy or musical for girls",
     "total_count": 1,
     "top_variants": [
       {
         "text": "best actress in a TV series - comedy or musical for Girls",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a musical or comedy golden globes 2013",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actress in a Musical or Comedy Golden Globes 2013",
         "count": 1
       }
     ]
@@ -6416,36 +4312,6 @@
     ]
   },
   {
-    "normalized": "best television series actress",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best TV Series Actress",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best cleavage award",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best cleavage award",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, television comedy or musical",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress, Television Comedy Or Musical",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best speech writer",
     "total_count": 1,
     "top_variants": [
@@ -6461,16 +4327,6 @@
     "top_variants": [
       {
         "text": "Best Actress for TV Comedy at Golden Globes http",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best series of non sequiturs",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best series of non sequiturs",
         "count": 1
       }
     ]
@@ -6516,11 +4372,41 @@
     ]
   },
   {
-    "normalized": "best director for a motion picture",
+    "normalized": "best film director for",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Director for a Motion Picture",
+        "text": "best film director for",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best director for motion picture",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best director for motion picture",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best director of a motion picture",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Director of a Motion Picture",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best director for awesome argo",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best director for awesome Argo",
         "count": 1
       }
     ]
@@ -6556,11 +4442,11 @@
     ]
   },
   {
-    "normalized": "best director and he looks like he",
+    "normalized": "again for at the - argofuck yourself",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Director and he looks like he",
+        "text": "#BestDirector AGAIN for #Argo at the #GoldenGlobes - #Academy Argofuck yourself",
         "count": 1
       }
     ]
@@ -6606,21 +4492,21 @@
     ]
   },
   {
-    "normalized": "best director, motion picture",
+    "normalized": "best foreign film http",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Director, Motion Picture",
+        "text": "best foreign film http",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best director yet no oscar nomination",
+    "normalized": "best director and a standing ovation",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Director yet no Oscar nomination",
+        "text": "Best Director and a standing ovation",
         "count": 1
       }
     ]
@@ -6666,21 +4552,21 @@
     ]
   },
   {
-    "normalized": "best drama now",
+    "normalized": "best comedy series",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Drama now",
+        "text": "best comedy series",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best director, despite not getting an oscar nod",
+    "normalized": "best drama now",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Director, despite not getting an Oscar nod",
+        "text": "Best Drama now",
         "count": 1
       }
     ]
@@ -6736,36 +4622,6 @@
     ]
   },
   {
-    "normalized": "best television comedy / musical",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best TV Comedy / Musical",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best comedy television series",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Comedy TV Series",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best song for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Song for",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best dressed wearing miu miu",
     "total_count": 1,
     "top_variants": [
@@ -6806,21 +4662,11 @@
     ]
   },
   {
-    "normalized": "best introduction of an award at the",
+    "normalized": "best television series, musical or comedy, at the",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best introduction of an award at the",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress television drama, making it a bit of a clean sweep for homeland",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress TV Drama, making it a bit of a clean sweep for Homeland",
+        "text": "best TV series, musical or comedy, at the",
         "count": 1
       }
     ]
@@ -6886,6 +4732,16 @@
     ]
   },
   {
+    "normalized": "best actor, musical/comedy for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor, musical/comedy for",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actor musical or comedy",
     "total_count": 1,
     "top_variants": [
@@ -6896,11 +4752,11 @@
     ]
   },
   {
-    "normalized": "best facial hair",
+    "normalized": "best actor in a musical/comedy",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "best facial hair",
+        "text": "Best Actor in a Musical/Comedy",
         "count": 1
       }
     ]
@@ -6926,21 +4782,11 @@
     ]
   },
   {
-    "normalized": "best actor in a musical or comedy",
+    "normalized": "best actor in a comedy/musical for les miserables",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor in a Musical or Comedy",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor motion picture, for comedy/musical for his role in",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor Motion Picture, for Comedy/Musical for his role in",
+        "text": "Best Actor in a Comedy/Musical for Les Miserables",
         "count": 1
       }
     ]
@@ -6956,21 +4802,21 @@
     ]
   },
   {
-    "normalized": "best actor in a motion picture - comedy or musical at the",
+    "normalized": "best foreign film at",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor in a Motion Picture - Comedy Or Musical at the",
+        "text": "best foreign film at",
         "count": 1
       }
     ]
   },
   {
-    "normalized": "best actor, musical or comedy",
+    "normalized": "best actor in a comedy or musical",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor, Musical or Comedy",
+        "text": "best actor in a comedy or musical",
         "count": 1
       }
     ]
@@ -6991,6 +4837,16 @@
     "top_variants": [
       {
         "text": "Best Actor in a Motion Picture, comedy/musical",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best television actress",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best TV actress",
         "count": 1
       }
     ]
@@ -7021,6 +4877,16 @@
     "top_variants": [
       {
         "text": "best actor for comedy/musical in The Miserables",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best husband of the year",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Husband of the Year",
         "count": 1
       }
     ]
@@ -7066,31 +4932,11 @@
     ]
   },
   {
-    "normalized": "best actor, i won",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor, I won",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor in a film golden globes 2013 via",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Actor in a Film Golden Globes 2013 via",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for musical or comedy",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress for musical or comedy",
         "count": 1
       }
     ]
@@ -7146,6 +4992,16 @@
     ]
   },
   {
+    "normalized": "best motion picture comedy or musical",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Motion Picture Comedy or Musical",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best picture musical/comedy",
     "total_count": 1,
     "top_variants": [
@@ -7191,16 +5047,6 @@
     "top_variants": [
       {
         "text": "Best Picture Comedy/Musical at the",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best directorial erasure of non-white not-american people from their own history",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Directorial Erasure of Non-White Not-American People from Their Own History",
         "count": 1
       }
     ]
@@ -7276,16 +5122,6 @@
     ]
   },
   {
-    "normalized": "best motion picture - comedy/musical",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture - Comedy/Musical",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best musical for the golden globes",
     "total_count": 1,
     "top_variants": [
@@ -7316,16 +5152,6 @@
     ]
   },
   {
-    "normalized": "best picture oscar race is pretty much f",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Picture Oscar race is pretty much f",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best on set catering",
     "total_count": 1,
     "top_variants": [
@@ -7351,6 +5177,16 @@
     "top_variants": [
       {
         "text": "Best Motion Picture-Comedy/Musical",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor at",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor at",
         "count": 1
       }
     ]
@@ -7416,21 +5252,21 @@
     ]
   },
   {
-    "normalized": "best actress - drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress - Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actress, drama for zero dark thirty",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Actress, Drama for ZERO DARK THIRTY",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a motion picture - drama at the",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actress in a Motion Picture - Drama at the",
         "count": 1
       }
     ]
@@ -7466,21 +5302,21 @@
     ]
   },
   {
-    "normalized": "best performance by an actress in a motion picture - drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Performance by an Actress in a Motion Picture - Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best bipartisan freak out bait",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Bipartisan Freak Out Bait",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor, comedy or musical",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor, comedy or musical",
         "count": 1
       }
     ]
@@ -7496,11 +5332,31 @@
     ]
   },
   {
-    "normalized": "best actress, motion picture/drama",
+    "normalized": "best speech award",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actress, Motion Picture/Drama",
+        "text": "best speech award",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress in a motion picture, drama, for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actress in a motion picture, drama, for",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress, drama, for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actress, Drama, for",
         "count": 1
       }
     ]
@@ -7536,6 +5392,16 @@
     ]
   },
   {
+    "normalized": "best actor in a drama for his masterful performance in",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor in a drama for his masterful performance in",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actress motion picture drama",
     "total_count": 1,
     "top_variants": [
@@ -7556,16 +5422,6 @@
     ]
   },
   {
-    "normalized": "best actress in a drama, hands down",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Drama, hands down",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actress in dramatic movie",
     "total_count": 1,
     "top_variants": [
@@ -7576,31 +5432,11 @@
     ]
   },
   {
-    "normalized": "best performance by an actor in a motion picture - drama at the",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Performance by an Actor in a Motion Picture - Drama at the",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "and the award for cutest besties",
     "total_count": 1,
     "top_variants": [
       {
         "text": "And the award for cutest besties",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor, motion picture drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actor, Motion Picture Drama",
         "count": 1
       }
     ]
@@ -7646,6 +5482,16 @@
     ]
   },
   {
+    "normalized": "best actor - drama",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actor - Drama",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best supporting actor at the 2002 golden globes",
     "total_count": 1,
     "top_variants": [
@@ -7656,11 +5502,31 @@
     ]
   },
   {
+    "normalized": "best actor-in a motion picture",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actor-In  A Motion Picture",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actor in drama, as world collectively says",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Actor in Drama, as world collectively says",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a musical or comedy http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actor In A Musical Or Comedy http",
         "count": 1
       }
     ]
@@ -7756,21 +5622,11 @@
     ]
   },
   {
-    "normalized": "best actress, drama",
+    "normalized": "best actress in a motion picture, drama, for zero dark thirty",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actress, Drama",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress, movie drama, for",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actress, movie drama, for",
+        "text": "Best Actress in a Motion Picture, Drama,  for Zero Dark Thirty",
         "count": 1
       }
     ]
@@ -7791,16 +5647,6 @@
     "top_variants": [
       {
         "text": "Best Actor in a Motion Picture in the Comedy or Musical category for Les Miserables",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress at the oscars",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress at the Oscars",
         "count": 1
       }
     ]
@@ -7876,31 +5722,11 @@
     ]
   },
   {
-    "normalized": "best film drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "BEST FILM DRAMA",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best picture drama,",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Picture Drama,",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actor in a drama for his role in",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actor in a drama for his role in",
         "count": 1
       }
     ]
@@ -7926,16 +5752,6 @@
     ]
   },
   {
-    "normalized": "best actress in a television series-drama- for homeland",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress in a Television Series-Drama- for Homeland",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best drama film is",
     "total_count": 1,
     "top_variants": [
@@ -7946,21 +5762,31 @@
     ]
   },
   {
-    "normalized": "best drama for argo",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best drama for Argo",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best song for the theme to skyfall and dame maggie smith wi",
     "total_count": 1,
     "top_variants": [
       {
         "text": "best song for the theme to Skyfall and Dame Maggie Smith wi",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best lead actor in a drama for",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best lead actor in a drama for",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best motion picture - comedy or musical http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Motion Picture - Comedy Or Musical http",
         "count": 1
       }
     ]
@@ -7996,21 +5822,11 @@
     ]
   },
   {
-    "normalized": "best speech yet",
+    "normalized": "best picture, drama",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best speech yet",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "the coveted prize of",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "the coveted prize of #GoldenGlobes #bestdressed",
+        "text": "best picture, drama",
         "count": 1
       }
     ]
@@ -8041,6 +5857,16 @@
     "top_variants": [
       {
         "text": "Best actor in a motion picture drama is",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actress award",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "Best Actress Award",
         "count": 1
       }
     ]
@@ -8096,41 +5922,11 @@
     ]
   },
   {
-    "normalized": "best motion picture drama yeah baby",
+    "normalized": "best motion picture, comedy/musical",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "BEST MOTION PICTURE DRAMA YEAH BABY",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best drama at the",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Drama at the",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress at",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress  at",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best school in asia",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best school in asia",
+        "text": "Best Motion Picture, Comedy/Musical",
         "count": 1
       }
     ]
@@ -8141,16 +5937,6 @@
     "top_variants": [
       {
         "text": "Best Dressed and Best Eloquently Kick-Ass Acceptance Speech",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best motion picture, musical or comedy",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Motion Picture, Musical or Comedy",
         "count": 1
       }
     ]
@@ -8236,21 +6022,21 @@
     ]
   },
   {
-    "normalized": "best actor in a musical or comedy at the golden globes for les mis",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "best actor in a musical or comedy at the Golden Globes for Les Mis",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best original song goes to skyfall 2013 golden globes",
     "total_count": 1,
     "top_variants": [
       {
         "text": "Best Original Song goes to Skyfall 2013 Golden Globes",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best actor in a motion picture drama http",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best actor in a motion picture drama http",
         "count": 1
       }
     ]
@@ -8281,16 +6067,6 @@
     "top_variants": [
       {
         "text": "Best Original Song goes to Skyfall 2013 Go",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "normalized": "best actress for zero dark thirty - motion picture drama",
-    "total_count": 1,
-    "top_variants": [
-      {
-        "text": "Best Actress for Zero Dark Thirty - Motion Picture Drama",
         "count": 1
       }
     ]
