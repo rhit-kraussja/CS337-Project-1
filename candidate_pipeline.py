@@ -50,7 +50,7 @@ ANCHORS = {
     # B: <Name> nominated for <award> OR <Name> up for <award>
     "NOMINEES_B": re.compile(r"([A-Z][a-z]+(?: [A-Z][a-z]+)*) (?:is|was|has been)? (nominated for|up for) ([A-Z][\w\s]+)", re.I),
     # Host trigger
-    "HOST": re.compile(r"(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\b", re.I),
+    "HOST": re.compile(r"(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\s+(.+)", re.I),
     # Broad "Best ..." net from anywhere
     "BEST_NET": re.compile(r"\bbest\b.{0,120}", re.I | re.DOTALL),
 }
@@ -280,7 +280,7 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
                 return cands
 
 
-    # # Nominees
+    # Nominees
     sa = split3(text, ANCHORS["NOMINEES_A"])
     if sa:
         anchor, L, R = sa
@@ -309,10 +309,16 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
             if len(subject) > 0:
                 cands.append(mk_candidate["NOMINEES_B", award_name, subject])
 
-    # # Host
-    # if ANCHORS["HOST"].search(text):
-    #     cands.append(mk_candidate(base, entity_type="host", rule_id="HOST",
-    #                               span_text=text, anchor_text="host", side=None, segment=segment))
+    # Host
+    sa = split3(text, ANCHORS["HOST"])
+    if sa:
+        anchor, R = sa
+        if actor_award(award_name):
+            subject = filter_name(R)
+        if subject:
+            subject = subject[0]
+            cands.append(mk_candidate("HOST", anchor, subject))
+            return cands
 
     # # Best-net (award-like phrase anywhere)
     # m = ANCHORS["BEST_NET"].search(text)
