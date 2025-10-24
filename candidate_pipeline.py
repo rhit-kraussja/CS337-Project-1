@@ -129,6 +129,31 @@ def filter_name(text: str) -> List[str]:
     doc = nlp(text)
     return [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
 
+def filter_movie(text: str) -> List[str]:
+    """Return all WORK_OF_ART entity spans from text using spaCy."""
+    doc = nlp(text)
+    return [ent.text for ent in doc.ents if ent.label_ == "WORK_OF_ART"]
+
+def actor_award(award_name: str) -> bool:
+    """Check if the award is looking for an actor"""
+    award_name = award_name.lower()
+
+    person_keywords = [
+        "actor", "actress", "director", "writer", "screenwriter",
+        "performer", "cinematographer", "producer", "editor"
+    ]
+    # film_keywords = [
+    #     "picture", "film", "feature", "movie", "cinematography",
+    #     "editing", "sound", "score", "design", "visual effects", "makeup"
+    # ]
+
+    if any(word in award_name for word in person_keywords):
+        return True
+    # elif any(word in award_name for word in film_keywords):
+    #     return "film"
+    else:
+        return False
+
 def split3(text: str, pat: re.Pattern) -> Optional[Tuple[str, str, str]]:
     """Apply a 3-group regex to text; return (L, anchor, R) or None."""
     m = pat.search(text)
@@ -158,11 +183,15 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     sb = split3(text, ANCHORS["WIN_B"])
     if sb:
         L, anchor, R = sb
-        names = filter_name(R)
-        if names:
-            subject = names[0]
-            award_name = extract_award_from_side(L)
-            if award_name:  # omit unrecognizable awards
+        award_name = extract_award_from_side(L)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(R)
+            else:
+                subject = filter_movie(R)
+                print(subject)
+            if subject:
+                subject = subject[0]
                 cands.append(mk_candidate("WIN_B", award_name, anchor, subject))
                 return cands  # prefer WIN_B when both might match
 
@@ -170,11 +199,15 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     sa = split3(text, ANCHORS["WIN_A"])
     if sa:
         L, anchor, R = sa
-        names = filter_name(L)
-        if names:
-            subject = names[0]
-            award_name = extract_award_from_side(R)
-            if award_name:  # omit unrecognizable awards
+        award_name = extract_award_from_side(R)
+        if award_name:  # omit unrecognizable awards
+            if actor_award(award_name):
+                subject = filter_name(L)
+            else:
+                subject = filter_movie(L)
+                print(subject)
+            if subject:
+                subject = subject[0]
                 cands.append(mk_candidate("WIN_A", award_name, anchor, subject))
 
     return cands
