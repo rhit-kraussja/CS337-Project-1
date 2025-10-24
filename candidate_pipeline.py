@@ -45,7 +45,10 @@ ANCHORS = {
     "PRESENT_A": re.compile(r"(.+?)\s+(present(?:s|ed)?|introduce(?:s|d)?)\s+(.+)", re.I),
     "PRESENT_B": re.compile(r"(.+?)\s+((presented|introduced)\s+by\s)(.+)", re.I),
     # Nominees
-    "NOMINEES": re.compile(r"(?:nominee[s]?\s+(?:are|for)|nominated\s+for)\s+(.+)", re.I),
+    # A: Nominees for <award>: <names>
+    "NOMINEES_A": re.compile(r"(nominees?\s+for)\s+([A-Z][\w\s]+):\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*(?:,\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)*)", re.I),
+    # B: <Name> nominated for <award> OR <Name> up for <award>
+    "NOMINEES_B": re.compile(r"([A-Z][a-z]+(?: [A-Z][a-z]+)*) (?:is|was|has been)? (nominated for|up for) ([A-Z][\w\s]+)", re.I),
     # Host trigger
     "HOST": re.compile(r"(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\b", re.I),
     # Broad "Best ..." net from anywhere
@@ -278,11 +281,33 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
 
 
     # # Nominees
-    # m = ANCHORS["NOMINEES"].search(text)
-    # if m:
-    #     for name in explode_nominee_list(m.group(1)):
-    #         cands.append(mk_candidate(base, entity_type="nominee", rule_id="NOMINEES",
-    #                                   span_text=name, anchor_text="nominee", side=None, segment=segment))
+    sa = split3(text, ANCHORS["NOMINEES_A"])
+    if sa:
+        anchor, L, R = sa
+        award_name = extract_award_from_side(L)
+        if award_name:
+            nominees = R.split(",")
+            subject = []
+            if actor_award(award_name):
+                for nominee in nominees:
+                    subject.append(filter_name(nominee))
+            else:
+                for nominee in nominees:
+                    subject.append(filter_movie(nominee))
+            if len(subject) > 0:
+                cands.append(mk_candidate["NOMINEES_A", award_name, subject])
+
+    sa = split3(text, ANCHORS["NOMINEES_B"])
+    if sa:
+        L, anchor, R = sa
+        award_name = extract_award_from_side(R)
+        if award_name:
+            if actor_award(award_name):
+                subject = filter_name(L)
+            else:
+                subject = filter_name(L)
+            if len(subject) > 0:
+                cands.append(mk_candidate["NOMINEES_B", award_name, subject])
 
     # # Host
     # if ANCHORS["HOST"].search(text):
