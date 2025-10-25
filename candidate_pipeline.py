@@ -295,30 +295,37 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
                 for nominee in nominees:
                     subject.append(filter_movie(nominee))
             if len(subject) > 0:
-                cands.append(mk_candidate["NOMINEES_A", award_name, subject])
+                cands.append(mk_candidate["NOMINEES_A", award_name, anchor, subject])
+                return cands
 
     sa = split3(text, ANCHORS["NOMINEES_B"])
     if sa:
         L, anchor, R = sa
         award_name = extract_award_from_side(R)
+        # print(award_name)
         if award_name:
             if actor_award(award_name):
                 subject = filter_name(L)
             else:
-                subject = filter_name(L)
-            if len(subject) > 0:
-                cands.append(mk_candidate["NOMINEES_B", award_name, subject])
-
+                subject = filter_movie(L)
+            print(subject)
+            if subject:
+                subject = subject[0]
+                cands.append(mk_candidate["NOMINEES_B", award_name, anchor, subject])
+                return cands
+            
     # Host
-    sa = split3(text, ANCHORS["HOST"])
-    if sa:
-        anchor, R = sa
-        if actor_award(award_name):
-            subject = filter_name(R)
-        if subject:
-            subject = subject[0]
-            cands.append(mk_candidate("HOST", anchor, subject))
-            return cands
+    # m = ANCHORS["HOST"].search(text)
+    # if not m:
+    #     return None
+    # print(m.group(1))
+    # anchor, R = m.group(1).strip(), m.group(2).strip()
+    # if actor_award(award_name):
+    #     subject = filter_name(R)
+    # if subject:
+    #     subject = subject[0]
+    #     cands.append(mk_candidate("HOST", "", anchor, subject))
+    #     return cands
 
     # # Best-net (award-like phrase anywhere)
     # m = ANCHORS["BEST_NET"].search(text)
