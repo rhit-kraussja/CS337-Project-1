@@ -20,8 +20,8 @@ def main():
     texts = list(load_texts(INPUT))
     out = []
     for t in texts:
-        # extract_red_carpet(t)
-        # extract_performance_info(t)
+        extract_red_carpet(t)
+        extract_performance_info(t)
         for c in generate_from_text(t, {}, "raw", 8, 2):
             out.append(asdict(c))
     # aggregate_red_carpets()
