@@ -203,7 +203,9 @@ def actor_award(award_name: str) -> bool:
 
     if any(word in award_name for word in person_keywords):
         return True
+      
     # elif any(word in award_name for word in film_keywords): # For if we want to deliniate film also and have a third category of unknown to run another check on
+
     #     return "film"
     else:
         return False
@@ -258,6 +260,7 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
                 subject = filter_name(L)
             else:
                 subject = filter_movie(L)
+                
             if subject:
                 subject = subject[0]
                 cands.append(mk_candidate("WIN_A", award_name, anchor, subject))
