@@ -1,0 +1,124 @@
+{
+    "hosts": [
+        "Tina Fey",
+        "Amy Poehler"
+    ],
+    "award_data": {
+        "best performance by an actor in a television series - drama": {
+            "presenters": [
+                "Bradley Cooper"
+            ],
+            "winner": "Damian Lewis"
+        },
+        "best performance by an actor in a supporting role in a series, miniseries, or motion picture made for television": {
+            "presenters": [],
+            "winner": "Christoph Waltz"
+        },
+        "best director - motion picture": {
+            "presenters": [
+                "Halle Berry",
+                "Bradley Cooper",
+                "bill clinton",
+                "Bill Clinton"
+            ],
+            "winner": "Ben Affleck"
+        },
+        "best performance by an actor in a supporting role in a motion picture - drama, musical or comedy": {
+            "presenters": [],
+            "winner": "Christoph Waltz"
+        },
+        "best performance by an actress in a supporting role in a series, miniseries or motion picture made for television": {
+            "presenters": [],
+            "winner": "Maggie Smith"
+        },
+        "best performance by an actress in a television series - drama": {
+            "presenters": [
+                "Nathan Fillion",
+                "Lea Michele"
+            ],
+            "winner": "Maggie Smith"
+        },
+        "best performance by an actress in a miniseries or motion picture made for television": {
+            "presenters": [],
+            "winner": "Julianne Moore"
+        },
+        "best original score": {
+            "presenters": [],
+            "winner": "Quentin Tarantino"
+        },
+        "best television series - comedy or musical": {
+            "presenters": [],
+            "winner": "House of Lies"
+        },
+        "best miniseries or motion picture made for television": {
+            "presenters": [],
+            "winner": "Game Change"
+        },
+        "best performance by an actor in a motion picture - musical or comedy": {
+            "presenters": [],
+            "winner": "Hugh Jackman"
+        },
+        "best television series - drama": {
+            "presenters": [],
+            "winner": "Skyfall"
+        },
+        "best screenplay": {
+            "presenters": [
+                "Robert Pattinson's",
+                "RT @woahpattinson",
+                "Robert Pattinson"
+            ],
+            "winner": "Quentin Tarantino"
+        },
+        "best performance by an actor in a television series - comedy or musical": {
+            "presenters": [],
+            "winner": "Don Cheadle"
+        },
+        "best original song": {
+            "presenters": [],
+            "winner": "Skyfall"
+        },
+        "best motion picture - musical or comedy": {
+            "presenters": [],
+            "winner": "Les Miserables"
+        },
+        "best performance by an actor in a miniseries or motion picture made for television": {
+            "presenters": [],
+            "winner": "Ed Harris"
+        },
+        "best performance by an actress in a motion picture - musical or comedy": {
+            "presenters": [],
+            "winner": "Jennifer Lawrence"
+        },
+        "best performance by an actress in a television series - comedy or musical": {
+            "presenters": [],
+            "winner": "Lena Dunham"
+        },
+        "best performance by an actress in a motion picture - drama": {
+            "presenters": [
+                "George Clooney"
+            ],
+            "winner": "Jessica Chastain"
+        },
+        "best performance by an actress in a supporting role in a motion picture - drama, musical or comedy": {
+            "presenters": [],
+            "winner": "Anne Hathaway"
+        },
+        "Best motion picture - drama": {
+            "presenters": [],
+            "winner": "Les Miserables"
+        },
+        "best foreign language film": {
+            "presenters": [],
+            "winner": "Amour"
+        },
+        "best animated feature film": {
+            "presenters": [],
+            "winner": "Wreck it Ralph. WTF"
+        },
+        "best performance by an actor in a motion picture - drama": {
+            "presenters": [],
+            "winner": "Daniel Day-Lewis"
+        }
+    }
+}

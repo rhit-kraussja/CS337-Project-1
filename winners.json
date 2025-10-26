@@ -1,0 +1,5667 @@
+[
+  {
+    "award": "#BestActor in a #Drama for #Lincoln at the #GoldenGlobes",
+    "winner": "Louie",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "#BestActor in a Tv series Drama #GoldenGlobes",
+    "winner": "SteveBuscemi",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "#BestActress Tv series Drama #GoldenGlobes",
+    "winner": "GlennClose",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "#BestDirector AGAIN for #Argo at the #GoldenGlobes – #Academy Argofuck Yourself",
+    "winner": "BenAffleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "#BestForeignFilm at the #GoldenGlobes Which Is No Surprise Since It Was Nominated for the #AcademyAward for #BestPicture",
+    "winner": "Amour",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "And the Award for Cutest Besties",
+    "winner": "Loveit",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "BEST ACTOR in a MOTION PICTURE, MUSICAL or COMEDY",
+    "winner": "HUGH JACKMAN",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "BEST ACTRESS for Homeland Golden Globes 2013 Via",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best 'or Musical",
+    "winner": "Les Miz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Acceptance Speech",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Accessory of the Night",
+    "winner": "Will Farrell",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actess in a TV series Drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Acting Awards at the",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 7,
+    "total_votes_for_award": 14,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Hugh Jackman",
+        "votes": 3
+      },
+      {
+        "name": "Daniel Day Lewis",
+        "votes": 2
+      },
+      {
+        "name": "Bill Clinton",
+        "votes": 1
+      },
+      {
+        "name": "Ben Affleck",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actor As Well",
+    "winner": "Lincoln",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Award This Year Even Before Lincoln Came Out",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Award for the Movie Lincoln at the",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Comedy/Musical for Les Mis",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Drama for Homeland",
+    "winner": "Damien Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor From a Mini – series Kevin Costner Doesn",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor I Might Go Pour Another Cocktail",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor In A Musical Or Comedy http",
+    "winner": "Hugh Jackmans",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor In A TV Movie At The Golden Globes http",
+    "winner": "John McCain Ed Harris",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Mini series / TV Movie",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor Musical or Comedy",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor So I Might As Well Go to Bed",
+    "winner": "Huge Jackmans",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor TV Comedy series for HOUSE of LIES",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor TV Drama Award",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor TV series for Drama for Homeland, Was Rooting for Jeff Daniels, But Hey",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor TV series or Drama",
+    "winner": "Damien Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor TV series or Drama for Homeland",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor When It Comes Down to It",
+    "winner": "Django",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor and Actress Respectively in Drama series",
+    "winner": "Carrie",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor and Anne Hathaway wins Best Featured Actress for",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor at",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor at Golden Globes",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor at the",
+    "winner": "Bradley Cooper",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Comedy/musical in the Miserables",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Faking His Own Death",
+    "winner": "Jesus",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Game Change But He",
+    "winner": "Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Hatfields &amp",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for His Powerful Role in Les Miserables",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Homeland, Dedicated the Award to His Mother",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Les Mis",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Les Mis – –  Well Earned",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Lincoln – Motion Picture Drama",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for Performance in",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for TV series Comedy or Musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for TV series Drama",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor for the Movie",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Comedy",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Drama, As World Collectively Says",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Miniseries for Hatfields &amp",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Motion Picture",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Musical or Comedy",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in TV Series/Comedy or Musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in TV series",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in TV series – Drama",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in Tv series Drama Golden Globes 2013 Http",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Comedy",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Comedy film",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Comedy/Musical",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Comedy/musical I",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Drama",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Drama for",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Drama for His Masterful Performance in",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Drama series at the Golden Globes Http",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Drama, Hands Down",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Mini – Series/TV Movie at the",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Miniseries for",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Miniseries for the History Channel",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Miniseries or Motion Picture Made for Television",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Miniseries or Motion Picture Made for Television for Hatfields &amp",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Miniseries or TV Movie",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Daniel Day-Lewis",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actor in a Motion Picture Drama",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 8,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Daniel Day Lewis",
+        "votes": 4
+      }
+    ]
+  },
+  {
+    "award": "Best Actor in a Motion Picture Drama Http",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture Drama Is",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture Drama for Lincoln",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture Musical or Comedy for Les Mis",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture for Drama",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture in the Comedy or Musical Category for Les Miserables",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture in the Drama Category for Lincoln",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture – Drama",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture, Comedy/musical",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture, Drama",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Motion Picture, Drama for",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Daniel Day Lewis",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actor in a Movie, Musical or Comedy",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Comedy/musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Drama Award",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Miniseries",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Miniseries/Movie at the 2013 Http",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Series, Comedy for",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 5,
+    "winner_share": 0.8,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Don Cheadle",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actor in a TV Series/Comedy for",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV Show",
+    "winner": "Jon Hamm",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV series",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV series for",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV series for His Role in Homeland",
+    "winner": "Damien Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV series – Comedy",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a TV series – Comedy or Musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Television Series, Comedy or Musical for His Role on House of Lies",
+    "winner": "YES!!@nbc",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a Television series in a Comedy or Musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a comedy or musical",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor in a film Golden Globes 2013 Via",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor – Comedy or Musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor – Drama",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor – Drama for Lincoln",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor – in a Motion Picture",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor, Comedy or Musical",
+    "winner": "Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor, Drama",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 24,
+    "total_votes_for_award": 28,
+    "winner_share": 0.8571,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Daniel Day Lewis",
+        "votes": 1
+      },
+      {
+        "name": "Daniel Day-Lewis Http://t.co/fFn1ETQe",
+        "votes": 1
+      },
+      {
+        "name": "Daniel Day-Lewis Http://t.co/uXGYSsN8",
+        "votes": 1
+      },
+      {
+        "name": "Daniel Day-Lewis Http://t.co/CNlxQZMO",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actor, TV Comedy Award for Showtime",
+    "winner": "Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor, TV movie or mini",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actor, TV series Drama",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 9,
+    "total_votes_for_award": 20,
+    "winner_share": 0.45,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Jennifer Lawrence",
+        "votes": 3
+      },
+      {
+        "name": "Claire Danes",
+        "votes": 3
+      },
+      {
+        "name": "Bey",
+        "votes": 1
+      },
+      {
+        "name": "Louisville",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress Award",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Comedy",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Comedy Movie",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Comedy or Musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Comedy/Musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Drama for Zero Da",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Hands Down",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Http",
+    "winner": "Celebrity Live Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress In A Supporting Role in a Motion Picture the",
+    "winner": "- Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Anne Hathaway",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress Is a TV Comedy series",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Motion Picture Comedy or Musical for Silver Linings Playbook",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Motion Picture Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress Motion Picture for",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress TV series Drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress TV series – Drama for",
+    "winner": "RT @BBCNewsUS",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress TV – Drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress and Looks Gorgeous Icy Blue Calvin Klein",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress at the Golden Globes",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Jessica Chastain",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress for Drama for the Movie ZERO DARK THIRTY",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress for Homeland",
+    "winner": "Claire Danes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Yesssss Claire Danes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress for TV Comedy at Golden Globes",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress for TV Comedy at Golden Globes Http",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress for TV Series,musical or Comedy",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress for a Motion Picture Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in Comedy or Musical in film",
+    "winner": "Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in Comedy/Musical for",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in Dramatic Movie",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in GIRLS",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in Mini – series at Golden Globes Http",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in Motion Picture – Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in TV",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in TV Comedy/Musical",
+    "winner": "Lena D for Girls",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Comedy or Musical for",
+    "winner": "Lawrence",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 5,
+    "winner_share": 0.6,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Jennifer Lawrence",
+        "votes": 2
+      }
+    ]
+  },
+  {
+    "award": "Best Actress in a Comedy series Http",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Comedy/Musical for the AMAZING Silver Linings Playbook",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Drama Television series",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Miniseries or Made for TV Movie at the",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Miniseries or Made for TV Movie at the Golden Globes",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Miniseries or TV Movie for",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress in a Motion Picture Musical/Comedy",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture – Comedy for Silver Linings Playbook Http",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture – Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture – Drama at the",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Comedy or Musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Drama for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Drama, for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Drama, for Zero Dark Thirty",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Motion Picture, Musical or Comedy Http",
+    "winner": "Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Movie",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Movie for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Musical or Comedy",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "JENNIFER LAWRENCE",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress in a Musical or Comedy Golden Globes 2013",
+    "winner": "Http://t.co/3IyTTqP4 Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Musical or Comedy Golden Globes 2013 http",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Musical or Comedy Http",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Comedy",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Drama at the",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Miniseries or Motion Picture Made",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Miniseries or Movie",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Series, Comedy/Musical Thanks to",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Series, Drama for",
+    "winner": "Claire Danes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV Series, Drama, for Her Role in Homeland",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV series Comedy/musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV series Drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV series Drama for Homeland",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV series – Comedy or Musical for Girls",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a TV series – Drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in a Television Series",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Lena Dunham",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Actress in a Television Series, Drama, for Her Role on Homeland",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress in the Great Zero Dark 30",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress – Drama, Motion Pitcure for Zero Dark Thirty",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress – Motion Picture – Comedy or Musical at Golden Globes",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress,",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress, Drama for ZERO DARK THIRTY",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress, Motion Picture Comedy or Musical for Silver Linings Playbook",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress, Motion Picture Comedy or Musical, for Silver Lining Playbook",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress, Motion Picture Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Actress, Musical or Comedy Http",
+    "winner": "Golden Globes 2013",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Affair Ever",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Animated Feature Film",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Animated Film",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Animated Picture Is So Well Deserved",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Animated film Globe",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Animated film Is",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Award Speech",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Awkward Girl You Avoid Talking to at a Party",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Awkward Moment",
+    "winner": "Salma Hayek",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Beard on an Old Guy Who Played Inigo Montoya in",
+    "winner": "Mandy Patinkin",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Bipartisan Freak Out Bait",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Bond Theme Ever",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Cameo for an Award",
+    "winner": "Amy Poehler",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedic Combo",
+    "winner": "Kristin",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy",
+    "winner": "@lenadunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes2013",
+        "votes": 1
+      },
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Comedy / Musical",
+    "winner": "Congrats Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy Actor In A Television Series",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 16,
+    "total_votes_for_award": 16,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy or Musical",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Comedy or Musicial",
+    "winner": "LesMiserables",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy series",
+    "winner": "Girls",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy/Musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "LesMiserables",
+        "votes": 1
+      },
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Comedy/Musical Motion Picture",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Comedy/Musical Movie http",
+    "winner": "Surya Golden Globes",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 5,
+    "winner_share": 0.8,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Directing, He Got a Standing Ovation",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Direction",
+    "winner": "Congrats",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 18,
+    "total_votes_for_award": 27,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Affleck",
+        "votes": 2
+      },
+      {
+        "name": "Jared Leto",
+        "votes": 1
+      },
+      {
+        "name": "Oscar",
+        "votes": 1
+      },
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Director &amp",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Director Award at Golden Globes",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director Award at Golden Globes for Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director Award for",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "RT Golden Globes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Director Despite Oscar Snub Http",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director Http",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director and Best Picture for Argo",
+    "winner": "Oscar",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director and His Movie",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director and a standing ovation",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director at",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director at the Golden Globes",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director at the Golden Globes, But Is Not Nominated for a Oscar",
+    "winner": "Ben Afleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 14,
+    "total_votes_for_award": 17,
+    "winner_share": 0.8235,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "BEN AFFLECK",
+        "votes": 1
+      },
+      {
+        "name": "Oscar",
+        "votes": 1
+      },
+      {
+        "name": "Hooray",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Director for Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 8,
+    "total_votes_for_award": 10,
+    "winner_share": 0.8,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "BenAffleck",
+        "votes": 1
+      },
+      {
+        "name": "Golden Globes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Director for Argo at",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Argo at Golden Globes 2013",
+    "winner": "India Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Argo at Golden Globes 2013 Http",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Argo at the",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Argo at the Golden Globes",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Argo in Golden Globes",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for Reindeer Games 2",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for film Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director for the ARGO film",
+    "winner": "Ben Afflect",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director of a Motion Picture",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director on These",
+    "winner": "Wanna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director – But I",
+    "winner": "Django",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director – Motion Picture for Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Director, Motion Picture, for Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Disapperaing Act",
+    "winner": "Amy Pohler",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama Http",
+    "winner": "Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama Now",
+    "winner": "- Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama Please",
+    "winner": "Daniel Day Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama TV Actress for",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama film Is",
+    "winner": "SHOCKED",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama series",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama series Http",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drama/Best Director at",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dress",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dressed",
+    "winner": "Sofiavergara",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Kate Hudson",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Dressed Wearing Miu Miu",
+    "winner": "Kerry Washington",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dressed and Best Eloquently Kick – Ass Acceptance Speech",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dressed and Best Smile",
+    "winner": "John Krasinski",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dressed for Sure",
+    "winner": "Halle Berry",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Dressed of the Night Easily",
+    "winner": "Kate Hudson",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Drunken Acceptance Speech of the Night",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Eight Year Old Boy",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Everything",
+    "winner": "Jessica",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Exotic Marigold Hotel",
+    "winner": "RT @TheMovieGuys",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Face After Losing to Carrie Underwood",
+    "winner": "Sorry Taylor Swift",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Facial Expression",
+    "winner": "Tommy Lee Jones",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Film, Best Director",
+    "winner": "Affleck Oscar",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Foreign Language",
+    "winner": "Michael Hanekes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Foreign Language Film",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Freckles in a Motion Picture, Musical or Comedy",
+    "winner": "Eddie Redmayne",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Future GIF of the Night",
+    "winner": "Glenn Close",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Gauze Bandage",
+    "winner": "Amanda Seyfried",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Gay Porn Face",
+    "winner": "Benedict Cumberbatch",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Golden Globes Acceptance Speech",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Hair Award for the 2013",
+    "winner": "Xxx",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Hairstyle",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Husband at the",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Husband of the Year",
+    "winner": "Hugh Jackmon",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Imitation of SNL",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Kanye Interruption at the",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Lesbian in a Back – Stage Candid Video Cameo",
+    "winner": "Jodie Foster",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Live Action Role Since",
+    "winner": "Jack Black",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Live Broadcast",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Male Actor in a Predominantly Gay Role, Then There Is No God",
+    "winner": "Leo",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Mini Series/ TV Movie",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Mini series",
+    "winner": "Mc Coys",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Mini series or TV Movie",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Mini – Actor in a series",
+    "winner": "Peter Dinklage",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Mini – series or TV",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Miniseries or TV Movie Award",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture",
+    "winner": "Les Miserables",
+    "votes_for_winner": 6,
+    "total_votes_for_award": 10,
+    "winner_share": 0.6,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 2
+      },
+      {
+        "name": "LesMisérables",
+        "votes": 1
+      },
+      {
+        "name": "Ben Afflecks",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Motion Picture Drama &amp",
+    "winner": "Ben",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture Screenplay",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture at",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture for Comedy/Musical",
+    "winner": "Les Miserables",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture – Comedy Or Musical http",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture – Comedy or Musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 4,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      },
+      {
+        "name": "Les Mis",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Motion Picture – Comedy/Musical",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture – Drama",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "@ESPN_Colin",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Motion Picture, Comedy or Musical, at the Golden Globes",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture, Comedy/Musical",
+    "winner": "LesMiserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Motion Picture, comedy or musical",
+    "winner": "Les Miserables",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 4,
+    "winner_share": 0.75,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Thankgod",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Movie",
+    "winner": "Django Unchained",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      },
+      {
+        "name": "Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Movie Award",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Movie Comedy or Musical at the Golden Globes",
+    "winner": "Awesome Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Movie Drama",
+    "winner": "GoldenGlobes RT",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Movie I",
+    "winner": "Django",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Movie – Comedy/Musical",
+    "winner": "LesMiz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Movie/Miniseries",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical",
+    "winner": "Goooo Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical for the Golden Globes",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical of Comedy",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical or Comedy After",
+    "winner": "Trifecta",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical or Comedy Motion Picture",
+    "winner": "LesMiserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Musical/comedy",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Les Misérables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Necklace",
+    "winner": "Jessica Alba",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best New Actor",
+    "winner": "Hugh Jackmans",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Old Man Crush",
+    "winner": "Clooney",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Score",
+    "winner": "Mychael Danna",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 4,
+    "winner_share": 0.75,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Original Score for LIFE of PI",
+    "winner": "Michael Danna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Score for a film",
+    "winner": "Mychael Danna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Score, Motion Picture",
+    "winner": "Mychael Danna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song",
+    "winner": "Adele",
+    "votes_for_winner": 6,
+    "total_votes_for_award": 13,
+    "winner_share": 0.4615,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 3
+      },
+      {
+        "name": "Skyfall Adele",
+        "votes": 1
+      },
+      {
+        "name": "Yay",
+        "votes": 1
+      },
+      {
+        "name": "Skyfall",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Original Song Award",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song But Hey Ho It",
+    "winner": "Yeh",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song Goes to",
+    "winner": "Golden Globes 2013",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song Goes to Skyfall 2013 Go",
+    "winner": "Golden Globes 2013",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song Goes to Skyfall 2013 Golden Globes",
+    "winner": "Http://t.co/gFXC30Xj Golden Globes 2013",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song Http",
+    "winner": "Golden Globes 2013",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song I",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song Motion Picture",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "RT@WSJspeakeasy",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Original Song at the",
+    "winner": "Yuppp RT",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song at the Golden Globes Ill Be Pissed",
+    "winner": "Taylor",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song for Motion Picture",
+    "winner": "Taylor",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song for SkyFall Such an Awesome Singer and Person and Gave a Great Speech",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song for Skyfall",
+    "winner": "Yayyyy Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Original Song – Motion Picture",
+    "winner": "Skyfall Adeleeeeeeeee",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Outfit of the Night",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Painted on Dress",
+    "winner": "Jennifer Lopez",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Penguin Walking Impression",
+    "winner": "Tattooed Chick",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by Don Cheadle in a Show Nobody Likes at All But It Has Don Cheadle in It So Whatever",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actor in a Mini series or Movie Made for TV",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actor in a Miniseries or TV Movie",
+    "winner": "Benedict Cumberbatch",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actor in a Miniseries or TV film",
+    "winner": "Kevin Costner Hatfields &",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actor in a Motion Picture, Comedy or Musical",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actress in a Comedy or Musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actress in a Motion Picture, Drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actress in a TV series at the",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actress in a TV series – Musical or Comedy at the",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance by an Actress in a Television series – Drama at the",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance in All the",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance in TV series – Drama at the",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Performance in a Motion Picture for Les Miserables",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Peter Pan Haircut at the Golden Globes",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Pic",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture As Well",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Award",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Award Like the",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Awards Http",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Comedy/Musical",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Comedy/Musical at the",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Drama,",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture I Will Thrown Myself Off a Bridge",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture Musical/Comedy",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture at the Oscars",
+    "winner": "Wanna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture for Comedy/Musical",
+    "winner": "Les Miserables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture nominee Lincoln",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture – Comedy or Musical",
+    "winner": "Omg Omg Omg",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture – Drama Http",
+    "winner": "Ben RT @washingtonpost",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture, Comedy/Musical",
+    "winner": "Les Mis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Picture, Drama",
+    "winner": "RT @Variety",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Political Shart",
+    "winner": "Al Roker",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Presenters",
+    "winner": "Kristen Wiig",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Presenters EVER",
+    "winner": "Will Ferrell",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Presenters So Far",
+    "winner": "Will Ferrell",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Punchline by an Actress",
+    "winner": "AMALAYERRRRR",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Real Fraud President in USA HISTORY",
+    "winner": "Barry Soetoro",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Real Life Quote Award",
+    "winner": "BILL CLINTON",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Recovery From a J – Lo Relationship",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Score for",
+    "winner": "RT @HuffPostEnt",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 16,
+    "total_votes_for_award": 24,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Django Unchained",
+        "votes": 3
+      },
+      {
+        "name": "Django",
+        "votes": 2
+      },
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      },
+      {
+        "name": "Quentin",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Screenplay Motion Picture",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay Well Deserved",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay for Django Unchained Golden Globes 2013 Http",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay for a Motion Picture",
+    "winner": "Quentin Taratino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay – Motion Picture",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Quentin Tarantino",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Screenplay – Motion Picture at the",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay, motion picture",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Screenplay, of Course",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Shorn Locks",
+    "winner": "Bummer",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Show on Television",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Song",
+    "winner": "Adele",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 4,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Yaaaayyyy",
+        "votes": 1
+      },
+      {
+        "name": "Taylor Swift",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Song at Golden Globes",
+    "winner": "RevistaBillboard Adele",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Song at the",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "RT @PerezHilton",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Song at the Golden Globes for Skyfall",
+    "winner": "Adele",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Song for WE",
+    "winner": "Madonna",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Song for the Theme to Skyfall and Dame Maggie Smith Wi",
+    "winner": "Leimo Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Song, unsurprisingly",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Speech Writer",
+    "winner": "Mel Gibson",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Speech of the Night So Far",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supp",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Suppor",
+    "winner": "Les Misérables",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supportin",
+    "winner": "Gossip",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supportin Actor at Golden Globes Http",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor Award",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor Award Like He Did Inglorious Basterds",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor Globe for",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 8,
+    "total_votes_for_award": 9,
+    "winner_share": 0.8889,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Supporting Actor Http",
+    "winner": "Golden Globes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor at Golden Globes",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor at Golden Globes 2013 Http",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor at the 2002 Golden Globes",
+    "winner": "George W. Bush",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor at the Golden Globes 2013",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor at the Golden Globes 2013 Http",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor for Django",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor for Django Unchained",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 6,
+    "total_votes_for_award": 7,
+    "winner_share": 0.8571,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "ChristophterWaltz",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Supporting Actor for Django Unchained Http",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor for His Role in Django Unchained",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in Django Unchained",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in a Motion Picture",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in a Movie",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in a TV Show, Miniseries or TV Movie Award",
+    "winner": "Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in a TV series",
+    "winner": "Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Entertainment Ed Harris",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best Supporting Actor in a TV series or Movie",
+    "winner": "Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor in a series – I Like Ed Harris But Mandy Patinkin Was Robbed",
+    "winner": "GoldenGlobes Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor – Motion Picture for His Work in",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor, But I",
+    "winner": "Leo",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor, TV Movie, for Game Change, in Absentia",
+    "winner": "GoldenGlobes Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actor, TV series or Mini – Series, HBO",
+    "winner": "Ed Harris",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress &amp",
+    "winner": "MaggieSmith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress XD",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress at Golden Globes 2013",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for Her Role in Les Mis – Looking Good for an Oscar Win Now Too",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for Her Work in",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for Les Mis",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for Les Miserables",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for TV",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress for TV, Miniseries, Etc",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in TV Series, Mini – series or TV Movie",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Comedy or Musical",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Drama",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Miniseries for Downton Abbey",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Motion Picture Drama",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Motion Picture for",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Motion Picture with Les Miserables",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a Motion Picture – Les Miserables",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a TV Movie, Series, or Miniseries",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a TV Movie, Series, or Miniseries for",
+    "winner": "MaggieSmith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a TV Series",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress in a TV Show, Miniseries or TV Movie",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress – Les Miserables",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress – Motion",
+    "winner": "Les Misérables",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress,",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress, TV for",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Actress, and I",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Band in a Comedy or Musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Ginger Who Also Makes My Panties Wet",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Supporting Handjob",
+    "winner": "Amy Adams",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Actor – Comedy, Tarantino Wins Screenplay Award",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Actor – Drama",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Actress",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Actress in a Comedy From Girls",
+    "winner": "Jack",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Movie",
+    "winner": "Sarah Palin",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Dick",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best TV Musical or Comedy for House of Lies Http",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Series",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 4,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Girls",
+        "votes": 1
+      },
+      {
+        "name": "@lenadunham Congrats",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best TV Series – Drama",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 5,
+    "winner_share": 0.8,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "LittleUnexpected",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best TV Series, Comedy",
+    "winner": "😃😃😃 RT @THR:",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV Series, Drama",
+    "winner": "YESSSS",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV comedy/musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Lena",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best TV series Actress in a Comedy or Musical",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV series Drama",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Claire Danes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best TV series Drama Http",
+    "winner": "Yessssssssss RT @washingtonpost",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best TV series – Comedy",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Tan by an Actress",
+    "winner": "Lea Michelle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Television Series, Comedy or Musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Television series Actor",
+    "winner": "Damien Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Thank You to a Spouse",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Things That Will Happen Tonight",
+    "winner": "Daniel Craig",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Use of a Large Doily",
+    "winner": "Jennifer Lopez",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Wife",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best Win So Far",
+    "winner": "@lenadunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actor TV series – comedy or musical",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actor for TV drama",
+    "winner": "Zeebox",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Damian Lewis",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best actor in a miniseries/TV movie",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actress for comedy/musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actress in a TV comedy or musical",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actress in a TV comedy/musical",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best actress in a motion picture drama",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best director for motion picture",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 6,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "BenAffleck",
+        "votes": 2
+      },
+      {
+        "name": "RT @BBCNewsUS",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best director motion picture",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 10,
+    "total_votes_for_award": 10,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best film Director",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best foreign film",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best motion picture drama",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 11,
+    "total_votes_for_award": 13,
+    "winner_share": 0.8462,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Congrats",
+        "votes": 1
+      },
+      {
+        "name": "Altin Kure",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best on Set Catering",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best original score – motion picture is",
+    "winner": "Joel Zimmerman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Mychael Danna",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best speech",
+    "winner": "Jodie Foster",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Daniel Day-Lewis",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best speech of the night",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Jodie Foster",
+        "votes": 1
+      },
+      {
+        "name": "Jessica Chastain",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Best supporting actor in TV",
+    "winner": "Ed Harris",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best supporting actor, motion picture",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 7,
+    "total_votes_for_award": 7,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best supporting actress TV series, miniseries, or TV movie",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "Best supporting actress in a motion picture is",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 16,
+    "total_votes_for_award": 17,
+    "winner_share": 0.9412,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Anne Hathaway - Les Miserables",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "Bests Original Beard",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "For #Skyfall, It's the Best #GoldenGlobes",
+    "winner": "Adele",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best Best Television Comedy/Musical Series",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Girls",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best TV drama",
+    "winner": "Sorry Downton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Adele",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best TV series – comedy or musical http",
+    "winner": "Girls",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best TV series, musical or comedy, at the",
+    "winner": "Girls",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor for",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 7,
+    "winner_share": 0.5714,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "HughJackman",
+        "votes": 1
+      },
+      {
+        "name": "Daniel Day Lewis",
+        "votes": 1
+      },
+      {
+        "name": "RT @washingtonpost Hugh Jackman",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actor for Les Miserables",
+    "winner": "GoldenGlobes Hugh",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Yayiee",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actor for TV drama http",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a TV drama for",
+    "winner": "Damian Lewis",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a comedy or musical TV series for",
+    "winner": "Don Cheadle",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a comedy/musical for Les Miserables",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a drama for Lincoln at the",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a miniseries",
+    "winner": "Kevin Costner",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a motion picture, comedy or musical for",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a musical or comedy award at",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor in a musical/comedy",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor who did not have sex with that woman",
+    "winner": "Bill Clinton",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Al Gore",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actor, drama for",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actor, musical/comedy for",
+    "winner": "Hugh Jackman",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress and first person to",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 4,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Claire Danes",
+        "votes": 1
+      },
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actress for Silver Linings",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress for Zero Dark Thirty",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a TV series drama http",
+    "winner": "Claire Danes",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a TV series – comedy or musical http",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a comedy",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Congrats Lena Dunham",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actress in a comedy for Silver Linings Playbook",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 2,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a comedy or musical",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "JenniferLawrence",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actress in a comedy or musical movie for",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a drama",
+    "winner": "Claire Danes",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 2,
+    "winner_share": 0.5,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Jessica Chastain",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best actress in a dramatic film for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a mini – series or TV movie for",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in a musical/comedy for",
+    "winner": "Jennifer Lawrence",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress in mini – series/TV movie for",
+    "winner": "Julianne Moore",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best actress, drama, for",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best director at the",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best director for awesome Argo",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best drama",
+    "winner": "Breaking Bad Deserve",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Ben Affleck",
+        "votes": 1
+      },
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best film director for",
+    "winner": "Ben Affleck",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best foreign film at",
+    "winner": "Michael Haneke",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best foreign film http",
+    "winner": "Amour",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best lead actor in a drama for",
+    "winner": "Daniel Day-Lewis",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best miniseries or TV movie",
+    "winner": "GoldenGlobes",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best motion picture screenplay for",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 3,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best original song for",
+    "winner": "Adele",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best original song for motion picture http",
+    "winner": "Adele",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Woop",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best performance by an actress in a TV musical or comedy for",
+    "winner": "Lena Dunham",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best picture",
+    "winner": "Les Miserables",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 10,
+    "winner_share": 0.3,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 2
+      },
+      {
+        "name": "Anne Hathaway",
+        "votes": 1
+      },
+      {
+        "name": "ARGO",
+        "votes": 1
+      },
+      {
+        "name": "Ben Affleck",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best picture – comedy or musical http",
+    "winner": "LesMis",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "LesMiserables RT @washingtonpost",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best picture, musical or comedy",
+    "winner": "Les Miserables",
+    "votes_for_winner": 3,
+    "total_votes_for_award": 5,
+    "winner_share": 0.6,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes Les Miserables",
+        "votes": 1
+      },
+      {
+        "name": "Hugh",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best screenplay for",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 6,
+    "total_votes_for_award": 6,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best screenplay for Django Unchained",
+    "winner": "Quentin Tarantino",
+    "votes_for_winner": 5,
+    "total_votes_for_award": 6,
+    "winner_share": 0.8333,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "QuentinTarantino",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best speech award",
+    "winner": "Jessica Chastain",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best supporting actor",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 11,
+    "total_votes_for_award": 21,
+    "winner_share": 0.5238,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "Anne Hathaway",
+        "votes": 3
+      },
+      {
+        "name": "Christopher Waltz",
+        "votes": 2
+      },
+      {
+        "name": "Christoph Waltz - Django",
+        "votes": 1
+      },
+      {
+        "name": "Chistoph Waltz",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best supporting actor at",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best supporting actor for",
+    "winner": "Christoph Waltz",
+    "votes_for_winner": 2,
+    "total_votes_for_award": 3,
+    "winner_share": 0.6667,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "RT @washingtonpost",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best supporting actress",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 8,
+    "total_votes_for_award": 11,
+    "winner_share": 0.7273,
+    "low_confidence": false,
+    "runner_up": [
+      {
+        "name": "Maggie Smith",
+        "votes": 2
+      },
+      {
+        "name": "Les Misérables - International",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best supporting actress for",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 8,
+    "total_votes_for_award": 8,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best supporting actress for TV performance in",
+    "winner": "Maggie Smith",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 1,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  },
+  {
+    "award": "best supporting actress http",
+    "winner": "Anne Hathaway",
+    "votes_for_winner": 1,
+    "total_votes_for_award": 3,
+    "winner_share": 0.3333,
+    "low_confidence": true,
+    "runner_up": [
+      {
+        "name": "GoldenGlobes",
+        "votes": 1
+      },
+      {
+        "name": "Hathaway",
+        "votes": 1
+      }
+    ]
+  },
+  {
+    "award": "best – picture Golden Globes",
+    "winner": "Les Miz",
+    "votes_for_winner": 4,
+    "total_votes_for_award": 4,
+    "winner_share": 1.0,
+    "low_confidence": false,
+    "runner_up": []
+  }
+]

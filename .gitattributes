@@ -1,0 +1,6 @@
+*.spacy filter=lfs diff=lfs merge=lfs -text
+output/* filter=lfs diff=lfs merge=lfs -text
+output/model-best/vocab/vectors filter=lfs diff=lfs merge=lfs -text
+output/model-last/vocab/vectors filter=lfs diff=lfs merge=lfs -text
+output/model-best/vocab/vectors
+ filter=lfs diff=lfs merge=lfs -text
