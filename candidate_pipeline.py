@@ -17,7 +17,7 @@ from collections import Counter
 from rapidfuzz import process, fuzz
 
 # Load spaCy English model once (install with: python -m spacy download en_core_web_sm)
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("output/model-best")
 
 # ---------- Regex resources for normalization and award extraction ----------
 

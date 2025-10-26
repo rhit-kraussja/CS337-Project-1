@@ -20,11 +20,11 @@ def main():
     texts = list(load_texts(INPUT))
     out = []
     for t in texts:
-        extract_red_carpet(t)
-        extract_performance_info(t)
+        # extract_red_carpet(t)
+        # extract_performance_info(t)
         for c in generate_from_text(t, {}, "raw", 8, 2):
             out.append(asdict(c))
-    aggregate_red_carpets()
+    # aggregate_red_carpets()
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     dump_learned_awards("learned_awards.json")  # optional report
     print(f"Wrote {len(out)} candidates to {OUT}")
