@@ -7,7 +7,7 @@ from typing import Dict, List, Optional, Tuple
 
 import json
 import regex as re
-from collections import Counter
+from collections import Counter, defaultdict
 from ftfy import fix_text
 from unidecode import unidecode
 import spacy
@@ -48,11 +48,25 @@ ANCHORS = {
     # A: Nominees for <award>: <names>
     "NOMINEES_A": re.compile(r"(nominees?\s+for)\s+([A-Z][\w\s]+):\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*(?:,\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)*)", re.I),
     # B: <Name> nominated for <award> OR <Name> up for <award>
-    "NOMINEES_B": re.compile(r"([A-Z][a-z]+(?: [A-Z][a-z]+)*) (?:is|was|has been)? (nominated for|up for) ([A-Z][\w\s]+)", re.I),
+    "NOMINEES_B": re.compile(r"(.+?)\s+(?:is|was|has been)?\s+(nominated\s+for|up\s+for)\s+(.+)", re.I),
     # Host trigger
-    "HOST": re.compile(r"(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\s+(.+)", re.I),
+    "HOST": re.compile(r"(.*)(?:host(?:s|ed|ing)?\s+(?:tonight|the\s+show|the\s+golden\s+globes)|our\s+host(?:s)?\s+is)\s+(.+)", re.I),
+}
+
+RED_CARPET = {
     # Broad "Best ..." net from anywhere
-    "BEST_NET": re.compile(r"\bbest\b.{0,120}", re.I | re.DOTALL),
+    "best_dressed": re.compile(
+        r"(.+?)\s+(best\s+dressed|looked\s+(?:amazing|incredible|stunning|gorgeous))\s+(.+)", re.I
+    ),
+    "worst_dressed": re.compile(
+        r"(.+?)\s+(worst\s+dressed|terrible\s+outfit|looked\s+(?:awful|bad|terrible|horrible))\s+(.+)", re.I
+    ),
+    "most_discussed": re.compile(
+        r"(.+?)\s+(everyone(?:'s| is)\s+talking\s+about|most\s+talked\s+about|trending|viral)\s+(.+)", re.I
+    ),
+    "most_controversial": re.compile(
+        r"(.+?)\s+(controversial|divisive|caused\s+a\s+stir|stirring\s+up|mixed\s+reactions)\s+(.+)", re.I
+    )
 }
 
 # ---------- Data model ----------
@@ -295,37 +309,35 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
                 for nominee in nominees:
                     subject.append(filter_movie(nominee))
             if len(subject) > 0:
-                cands.append(mk_candidate["NOMINEES_A", award_name, anchor, subject])
+                cands.append(mk_candidate("NOMINEES_A", award_name, anchor, subject))
                 return cands
 
     sa = split3(text, ANCHORS["NOMINEES_B"])
     if sa:
         L, anchor, R = sa
         award_name = extract_award_from_side(R)
-        # print(award_name)
+        
         if award_name:
             if actor_award(award_name):
                 subject = filter_name(L)
             else:
                 subject = filter_movie(L)
-            print(subject)
             if subject:
                 subject = subject[0]
-                cands.append(mk_candidate["NOMINEES_B", award_name, anchor, subject])
+                cands.append(mk_candidate("NOMINEES_B", award_name, anchor, subject))
                 return cands
             
     # Host
-    # m = ANCHORS["HOST"].search(text)
-    # if not m:
-    #     return None
-    # print(m.group(1))
-    # anchor, R = m.group(1).strip(), m.group(2).strip()
-    # if actor_award(award_name):
-    #     subject = filter_name(R)
-    # if subject:
-    #     subject = subject[0]
-    #     cands.append(mk_candidate("HOST", "", anchor, subject))
-    #     return cands
+    m = ANCHORS["HOST"].search(text)
+    if m:
+        # print(m.groups())
+        L, R = m.group(1).strip(), m.group(2).strip()
+        subject = filter_name(L)
+
+        if subject:
+            subject = subject[0]
+            cands.append(mk_candidate("HOST", "", "host", subject))
+            return cands
 
     # # Best-net (award-like phrase anywhere)
     # m = ANCHORS["BEST_NET"].search(text)
@@ -333,3 +345,35 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     #     cands.append(mk_candidate(base, entity_type="award", rule_id="BEST_NET",
     #                               span_text=m.group(0).strip(), anchor_text="best", side=None, segment=segment))
     return cands
+
+category_counts = defaultdict(Counter)
+
+def extract_red_carpet(text: str):
+    labels = []
+    for label, pattern in RED_CARPET.items():
+        if pattern.search(text):
+            labels.append(label)
+    persons = filter_name(text)
+    red_carpet = [(p, label) for p in persons for label in labels]
+
+    for person, label in red_carpet:
+        category_counts[label][person] += 1
+
+    # if red_carpet:
+    #     try:
+    #         with open("red_carpet.json", 'x') as f:
+    #             json.dump([], f)  # Initialize with an empty list
+    #     except FileExistsError:
+    #         pass
+
+    #     with open("red_carpet.json", 'r') as f:
+    #         data = json.load(f)
+    #     data.append(red_carpet)
+    #     with open("red_carpet.json", "w") as file:
+    #         json.dump(data, file, indent=4)
+    return red_carpet
+
+def aggregate_red_carpets():
+    data = {label: counts.most_common(5) for label, counts in category_counts.items()}
+    with open("red_carpet.json", "w") as file:
+        json.dump(data, file, indent=4)

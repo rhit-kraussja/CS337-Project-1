@@ -268,24 +268,16 @@
     ]
   },
   {
-    "normalized": "best original song",
-    "total_count": 39,
+    "normalized": "best animated film",
+    "total_count": 41,
     "top_variants": [
       {
-        "text": "Best Original Song",
-        "count": 19
+        "text": "Best Animated Film",
+        "count": 33
       },
       {
-        "text": "best original song",
-        "count": 12
-      },
-      {
-        "text": "Best original song",
-        "count": 7
-      },
-      {
-        "text": "BEST ORIGINAL SONG",
-        "count": 1
+        "text": "best animated film",
+        "count": 8
       }
     ]
   },
@@ -303,6 +295,28 @@
       },
       {
         "text": "Best Actor For",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best original song",
+    "total_count": 38,
+    "top_variants": [
+      {
+        "text": "Best Original Song",
+        "count": 19
+      },
+      {
+        "text": "best original song",
+        "count": 11
+      },
+      {
+        "text": "Best original song",
+        "count": 7
+      },
+      {
+        "text": "BEST ORIGINAL SONG",
         "count": 1
       }
     ]
@@ -446,28 +460,6 @@
     ]
   },
   {
-    "normalized": "best drama",
-    "total_count": 30,
-    "top_variants": [
-      {
-        "text": "best drama",
-        "count": 13
-      },
-      {
-        "text": "Best Drama",
-        "count": 12
-      },
-      {
-        "text": "best Drama",
-        "count": 4
-      },
-      {
-        "text": "Best drama",
-        "count": 1
-      }
-    ]
-  },
-  {
     "normalized": "best actor",
     "total_count": 29,
     "top_variants": [
@@ -506,6 +498,28 @@
       {
         "text": "best-picture Golden Globes",
         "count": 29
+      }
+    ]
+  },
+  {
+    "normalized": "best drama",
+    "total_count": 28,
+    "top_variants": [
+      {
+        "text": "best drama",
+        "count": 14
+      },
+      {
+        "text": "Best Drama",
+        "count": 9
+      },
+      {
+        "text": "best Drama",
+        "count": 4
+      },
+      {
+        "text": "Best drama",
+        "count": 1
       }
     ]
   },
@@ -640,20 +654,6 @@
       {
         "text": "best actress in TV drama, rubs in her",
         "count": 22
-      }
-    ]
-  },
-  {
-    "normalized": "best animated film",
-    "total_count": 22,
-    "top_variants": [
-      {
-        "text": "Best Animated Film",
-        "count": 14
-      },
-      {
-        "text": "best animated film",
-        "count": 8
       }
     ]
   },
@@ -862,6 +862,20 @@
     ]
   },
   {
+    "normalized": "best song",
+    "total_count": 17,
+    "top_variants": [
+      {
+        "text": "Best Song",
+        "count": 10
+      },
+      {
+        "text": "best song",
+        "count": 7
+      }
+    ]
+  },
+  {
     "normalized": "best original song for skyfall, because it is not possible for adele to lose an award",
     "total_count": 17,
     "top_variants": [
@@ -888,20 +902,6 @@
       {
         "text": "Best Actress Award",
         "count": 17
-      }
-    ]
-  },
-  {
-    "normalized": "best song",
-    "total_count": 16,
-    "top_variants": [
-      {
-        "text": "Best Song",
-        "count": 9
-      },
-      {
-        "text": "best song",
-        "count": 7
       }
     ]
   },
@@ -3251,6 +3251,16 @@
     "top_variants": [
       {
         "text": "best drama on Golden Globes",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "normalized": "best drama, and mad men wasn",
+    "total_count": 3,
+    "top_variants": [
+      {
+        "text": "Best Drama, and Mad Men wasn",
         "count": 3
       }
     ]
@@ -5706,6 +5716,16 @@
     ]
   },
   {
+    "normalized": "best supporting actress for her role in les mi",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best supporting actress for her role in Les Mi",
+        "count": 1
+      }
+    ]
+  },
+  {
     "normalized": "best actress in mini-series at golden globes http",
     "total_count": 1,
     "top_variants": [
@@ -6491,6 +6511,16 @@
     "top_variants": [
       {
         "text": "best soundtrack score for the golden globes tonight",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "normalized": "best original song, but so is keith urban, he",
+    "total_count": 1,
+    "top_variants": [
+      {
+        "text": "best original song, but so is Keith Urban, he",
         "count": 1
       }
     ]
@@ -8346,11 +8376,11 @@
     ]
   },
   {
-    "normalized": "best picture in the oscars",
+    "normalized": "best picture in the oscars, it",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Picture in the Oscars",
+        "text": "Best Picture in the Oscars, it",
         "count": 1
       }
     ]
@@ -10166,11 +10196,11 @@
     ]
   },
   {
-    "normalized": "best actor academy award for the hurt locker",
+    "normalized": "best actor academy award for the hurt locker, but sure let",
     "total_count": 1,
     "top_variants": [
       {
-        "text": "Best Actor Academy Award for the Hurt Locker",
+        "text": "Best Actor Academy Award for the Hurt Locker, but sure let",
         "count": 1
       }
     ]

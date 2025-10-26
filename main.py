@@ -2,7 +2,9 @@
 import json
 from pathlib import Path
 from dataclasses import asdict
-from candidate_pipeline import generate_from_text, dump_learned_awards
+from candidate_pipeline import generate_from_text, dump_learned_awards, extract_red_carpet, aggregate_red_carpets
+from performance import extract_performance_info
+from red_carpet import aggregate_labels
 
 INPUT  = Path("gg2013.json")
 OUT    = Path("candidates.json")
@@ -18,8 +20,11 @@ def main():
     texts = list(load_texts(INPUT))
     out = []
     for t in texts:
+        extract_red_carpet(t)
+        extract_performance_info(t)
         for c in generate_from_text(t, {}, "raw", 8, 2):
             out.append(asdict(c))
+    aggregate_red_carpets()
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     dump_learned_awards("learned_awards.json")  # optional report
     print(f"Wrote {len(out)} candidates to {OUT}")
