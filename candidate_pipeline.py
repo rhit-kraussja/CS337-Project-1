@@ -17,7 +17,7 @@ from collections import Counter
 from rapidfuzz import process, fuzz
 
 # Load spaCy English model once (install with: python -m spacy download en_core_web_sm)
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("output/model-last", disable=["parser", "tagger", "lemmatizer"])
 
 # ---------- Regex resources for normalization and award extraction ----------
 
@@ -187,7 +187,7 @@ def filter_name(text: str) -> List[str]:
 def filter_movie(text: str) -> List[str]:
     """Return all WORK_OF_ART entity spans from text using spaCy."""
     doc = nlp(text)
-    return [ent.text for ent in doc.ents if ent.label_ == "WORK_OF_ART"]
+    return [ent.text for ent in doc.ents if ent.label_ == "WORK_OF_ART" or ent.label_ == "TITLE"]
 
 def actor_award(award_name: str) -> bool:
     """Check if the award is looking for an actor"""
@@ -350,33 +350,62 @@ def generate_from_text(text: str, base: Dict, segment: str, max_left: int, max_r
     return cands
 
 category_counts = defaultdict(Counter)
+performance_counts = defaultdict(Counter)
 
-def extract_red_carpet(text: str):
-    labels = []
-    for label, pattern in RED_CARPET.items():
-        if pattern.search(text):
-            labels.append(label)
-    persons = filter_name(text)
-    red_carpet = [(p, label) for p in persons for label in labels]
+# ---------- HELPERS ----------
 
-    for person, label in red_carpet:
-        category_counts[label][person] += 1
+def filter_name(text):
+    """Extract person names using spaCy or fallback regex."""
+    doc = nlp(text)
+    persons = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+    if not persons:
+        persons = re.findall(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*", text)
+    return persons
 
-    # if red_carpet:
-    #     try:
-    #         with open("red_carpet.json", 'x') as f:
-    #             json.dump([], f)  # Initialize with an empty list
-    #     except FileExistsError:
-    #         pass
+# ---------- BATCH EXTRACTORS ----------
 
-    #     with open("red_carpet.json", 'r') as f:
-    #         data = json.load(f)
-    #     data.append(red_carpet)
-    #     with open("red_carpet.json", "w") as file:
-    #         json.dump(data, file, indent=4)
-    return red_carpet
+def extract_red_carpet_batch(texts):
+    """Batch extraction for red carpet mentions."""
+    for doc in nlp.pipe(texts, batch_size=50):
+        labels = [label for label, pattern in RED_CARPET.items() if pattern.search(doc.text)]
+        persons = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+        if not persons:
+            persons = re.findall(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*", doc.text)
+        for label in labels:
+            for person in persons:
+                category_counts[label][person] += 1
+
+def extract_performance_info_batch(texts):
+    """Batch extraction for performance-related mentions."""
+    perf_patterns = {
+        "best_actor": re.compile(r"\b(best\s+actor|amazing\s+performance|stole\s+the\s+show)\b", re.I),
+        "best_actress": re.compile(r"\b(best\s+actress|incredible\s+role|powerful\s+acting)\b", re.I),
+        "supporting_actor": re.compile(r"\b(best\s+supporting\s+actor|scene\s+stealer)\b", re.I),
+    }
+
+    for doc in nlp.pipe(texts, batch_size=50):
+        labels = [label for label, pattern in perf_patterns.items() if pattern.search(doc.text)]
+        persons = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
+        if not persons:
+            persons = re.findall(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*", doc.text)
+        for label in labels:
+            for person in persons:
+                performance_counts[label][person] += 1
+
+# ---------- AGGREGATORS ----------
 
 def aggregate_red_carpets():
+    """Write red carpet stats to file."""
     data = {label: counts.most_common(5) for label, counts in category_counts.items()}
-    with open("red_carpet.json", "w") as file:
-        json.dump(data, file, indent=4)
+    with open("red_carpet.json", "w") as f:
+        json.dump(data, f, indent=4)
+    print("Wrote red_carpet.json")
+
+def aggregate_performances():
+    """Write performance stats to file."""
+    data = {label: counts.most_common(5) for label, counts in performance_counts.items()}
+    with open("performance.json", "w") as f:
+        json.dump(data, f, indent=4)
+    print("Wrote performance.json")
+
+

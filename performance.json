@@ -1,0 +1,68 @@
+{
+    "best_actress": [
+        [
+            "Golden",
+            763
+        ],
+        [
+            "Best Actress",
+            749
+        ],
+        [
+            "Globes",
+            749
+        ],
+        [
+            "Jennifer Lawrence",
+            383
+        ],
+        [
+            "Motion Picture",
+            309
+        ]
+    ],
+    "supporting_actor": [
+        [
+            "Christoph Waltz",
+            179
+        ],
+        [
+            "- Christoph Waltz - Django Unchained - #GoldenGlobes",
+            149
+        ],
+        [
+            "Golden",
+            137
+        ],
+        [
+            "Globes",
+            133
+        ],
+        [
+            "Best Supporting Actor",
+            132
+        ]
+    ],
+    "best_actor": [
+        [
+            "Golden",
+            880
+        ],
+        [
+            "Globes",
+            856
+        ],
+        [
+            "Best Actor",
+            659
+        ],
+        [
+            "Hugh Jackman",
+            435
+        ],
+        [
+            "Motion Picture",
+            355
+        ]
+    ]
+}
