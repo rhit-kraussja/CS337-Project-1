@@ -1,124 +1,300 @@
 {
     "hosts": [
-        "Tina Fey",
-        "Amy Poehler"
+        "Amy Poehler",
+        "Tina Fey"
     ],
     "award_data": {
+        "best television series - comedy or musical": {
+            "presenters": [],
+            "nominees": [
+                "No Lie! Don Cheadle",
+                "Don Cheadle for \"House of Lies\" #GoldenGlobes",
+                "RT @VanityFair: Girls",
+                "RT @FashionweekNYC: Jennifer Lawrence",
+                "RT @THR: Don Cheadle"
+            ],
+            "winner": "No Lie! Don Cheadle"
+        },
         "best performance by an actor in a television series - drama": {
             "presenters": [
                 "Bradley Cooper"
+            ],
+            "nominees": [
+                "Damian Lewis",
+                "Congrats",
+                "John McCain Ed Harris",
+                "Kevin Costner",
+                "Variety"
             ],
             "winner": "Damian Lewis"
         },
         "best performance by an actor in a supporting role in a series, miniseries, or motion picture made for television": {
             "presenters": [],
+            "nominees": [
+                "Christoph Waltz",
+                "Golden"
+            ],
             "winner": "Christoph Waltz"
         },
         "best director - motion picture": {
             "presenters": [
-                "Halle Berry",
-                "Bradley Cooper",
-                "bill clinton",
-                "Bill Clinton"
+                "Yahoo",
+                "Bradley Cooper"
+            ],
+            "nominees": [
+                "Ben Affleck",
+                "Ben Affleck",
+                "Perez",
+                "News",
+                "Huffington"
             ],
             "winner": "Ben Affleck"
         },
+        "best original song": {
+            "presenters": [],
+            "nominees": [
+                "RT @VEVO: Congrats to @OfficialAdele! She",
+                "RT @HuffingtonPost: Adele",
+                "Adele",
+                "RT @BBCNewsUS: #Adele",
+                "RT @FashionweekNYC: Adele"
+            ],
+            "winner": "RT @VEVO: Congrats to @OfficialAdele! She"
+        },
+        "Best motion picture - drama": {
+            "presenters": [
+                "RT @VanityFair: Julia Roberts(!)",
+                "RT @GMA: Bill Clinton"
+            ],
+            "nominees": [
+                "\"Argo",
+                "Christoph Waltz for \"Django Unchained\" #GoldenGlobes",
+                "Argo",
+                "RT @HuffingtonPost: \"Homeland",
+                "RT @HuffingtonPost: 'Argo'"
+            ],
+            "winner": "\"Argo"
+        },
         "best performance by an actor in a supporting role in a motion picture - drama, musical or comedy": {
             "presenters": [],
+            "nominees": [
+                "Christoph Waltz"
+            ],
             "winner": "Christoph Waltz"
         },
         "best performance by an actress in a supporting role in a series, miniseries or motion picture made for television": {
             "presenters": [],
+            "nominees": [
+                "Maggie Smith",
+                "News",
+                "Anne Hathaway",
+                "Downton"
+            ],
             "winner": "Maggie Smith"
         },
         "best performance by an actress in a television series - drama": {
             "presenters": [
-                "Nathan Fillion",
-                "Lea Michele"
+                "Zap",
+                "Why"
             ],
-            "winner": "Maggie Smith"
-        },
-        "best performance by an actress in a miniseries or motion picture made for television": {
-            "presenters": [],
-            "winner": "Julianne Moore"
-        },
-        "best original score": {
-            "presenters": [],
-            "winner": "Quentin Tarantino"
-        },
-        "best television series - comedy or musical": {
-            "presenters": [],
-            "winner": "House of Lies"
-        },
-        "best miniseries or motion picture made for television": {
-            "presenters": [],
-            "winner": "Game Change"
-        },
-        "best performance by an actor in a motion picture - musical or comedy": {
-            "presenters": [],
-            "winner": "Hugh Jackman"
+            "nominees": [
+                "Muggle",
+                "Claire Danes",
+                "Maggie Smith",
+                "Huffington",
+                "Julianne Moore"
+            ],
+            "winner": "Muggle"
         },
         "best television series - drama": {
             "presenters": [],
-            "winner": "Skyfall"
+            "nominees": [
+                "RT @VanityFair",
+                "Homeland",
+                "RT @todayshow: \"Homeland",
+                "RT @THR: \"Homeland",
+                "RT @TVGuide: Homeland"
+            ],
+            "winner": "RT @VanityFair"
+        },
+        "best performance by an actress in a miniseries or motion picture made for television": {
+            "presenters": [],
+            "nominees": [
+                "Jennifer Lawrence",
+                "Julianne Moore",
+                "Fashionweek",
+                "Vanity",
+                "Julianne"
+            ],
+            "winner": "Jennifer Lawrence"
+        },
+        "best miniseries or motion picture made for television": {
+            "presenters": [],
+            "nominees": [
+                "RT @washingtonpost: Adele's #Skyfall",
+                "RT @TODAY_ent: Adele's #Skyfall",
+                "RT @THR: Kevin Costner",
+                "Game Change #GoldenGlobes",
+                "Game Change"
+            ],
+            "winner": "RT @washingtonpost: Adele's #Skyfall"
+        },
+        "best original score": {
+            "presenters": [],
+            "nominees": [
+                "Mychael Danna",
+                "Life",
+                "Life",
+                "Golden",
+                "Canada"
+            ],
+            "winner": "Mychael Danna"
+        },
+        "best performance by an actor in a motion picture - musical or comedy": {
+            "presenters": [],
+            "nominees": [
+                "Golden",
+                "Hugh Jackman",
+                "Yah idk whats really going on with",
+                "Muh",
+                "On"
+            ],
+            "winner": "Golden"
+        },
+        "best motion picture - musical or comedy": {
+            "presenters": [
+                "RT @LincolnMovie: Bill Clinton",
+                "RT @MSNtv: Jason Statham and J.Lo"
+            ],
+            "nominees": [
+                "RT @CNNshowbiz: Hugh Jackman",
+                "RT @playbill: \"Les Miserables",
+                "RT @HuffingtonPost: Les Miserables",
+                "RT @nbc: Les Miserables",
+                "RT @BreakingNews: 'Les Miserables"
+            ],
+            "winner": "RT @CNNshowbiz: Hugh Jackman"
         },
         "best screenplay": {
             "presenters": [
-                "Robert Pattinson's",
-                "RT @woahpattinson",
+                "Amanda Seyfried",
                 "Robert Pattinson"
+            ],
+            "nominees": [
+                "Quentin Tarantino",
+                "Quentin Tarantino",
+                "Django Unchained",
+                "Twitter",
+                "Girls"
             ],
             "winner": "Quentin Tarantino"
         },
         "best performance by an actor in a television series - comedy or musical": {
             "presenters": [],
-            "winner": "Don Cheadle"
+            "nominees": [
+                "Iam",
+                "Golden Globes",
+                "Stern",
+                "Ylife",
+                "Stephanie"
+            ],
+            "winner": "Iam"
         },
-        "best original song": {
-            "presenters": [],
-            "winner": "Skyfall"
-        },
-        "best motion picture - musical or comedy": {
-            "presenters": [],
-            "winner": "Les Miserables"
+        "best animated feature film": {
+            "presenters": [
+                "RT @Zap2it: It's always good to have a faux-drunk guy",
+                "RT @Shiba4NY: Sacha Baron Cohen"
+            ],
+            "nominees": [
+                "\"Brave",
+                "RT @OfficialSMGNews: Hotel Transylvania",
+                "RT @washingtonpost: #Brave",
+                "RT @gmanews: \"Brave",
+                "RT @USATODAYlife: \u201cBrave"
+            ],
+            "winner": "\"Brave"
         },
         "best performance by an actor in a miniseries or motion picture made for television": {
             "presenters": [],
+            "nominees": [
+                "Ed Harris",
+                "Kevin Costner",
+                "And Kevin Costner",
+                "David",
+                "Hugh Jackman"
+            ],
             "winner": "Ed Harris"
         },
         "best performance by an actress in a motion picture - musical or comedy": {
             "presenters": [],
+            "nominees": [
+                "Jennifer Lawrence",
+                "Jennifer",
+                "Jennifer Lawrence",
+                "Best",
+                "David"
+            ],
             "winner": "Jennifer Lawrence"
         },
         "best performance by an actress in a television series - comedy or musical": {
             "presenters": [],
+            "nominees": [
+                "Lena Dunham",
+                "Lena Dunham",
+                "Cineplex",
+                "Lena",
+                "Yahoo"
+            ],
             "winner": "Lena Dunham"
         },
         "best performance by an actress in a motion picture - drama": {
             "presenters": [
-                "George Clooney"
+                "Philstar"
             ],
-            "winner": "Jessica Chastain"
+            "nominees": [
+                "Anne Hathaway",
+                "Jessica Chastain",
+                "Vanity",
+                "On",
+                "Anne Hathaway #GoldenGlobes"
+            ],
+            "winner": "Anne Hathaway"
         },
         "best performance by an actress in a supporting role in a motion picture - drama, musical or comedy": {
             "presenters": [],
+            "nominees": [
+                "Anne Hathaway",
+                "On",
+                "Anne Hathaway",
+                "- Anne Hathaway of \"Les Miserables",
+                "Congrats Anne"
+            ],
             "winner": "Anne Hathaway"
         },
-        "Best motion picture - drama": {
-            "presenters": [],
-            "winner": "Les Miserables"
-        },
         "best foreign language film": {
-            "presenters": [],
-            "winner": "Amour"
-        },
-        "best animated feature film": {
-            "presenters": [],
-            "winner": "Wreck it Ralph. WTF"
+            "presenters": [
+                "RT @pushinghoops: am I hallucinating",
+                "Sylvester Stallone and @Schwarzenegger"
+            ],
+            "nominees": [
+                "Golden Globes 2013: 'Amour'",
+                "RT @BBCWorld: Amour",
+                "RT @Variety: WINNER: \u201cAmour",
+                "RT @AP: 'Amour'",
+                "Amour #GoldenGlobes"
+            ],
+            "winner": "Golden Globes 2013: 'Amour'"
         },
         "best performance by an actor in a motion picture - drama": {
             "presenters": [],
-            "winner": "Daniel Day-Lewis"
+            "nominees": [
+                "News",
+                "Vanity",
+                "Daniel Day",
+                "Golden Globes",
+                "Daniel Day-Lewis"
+            ],
+            "winner": "News"
         }
     }
 }

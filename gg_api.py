@@ -281,23 +281,99 @@ def main():
         - Make sure to handle errors gracefully
     '''
     pre_ceremony()
+
+    # --- Load JSON files ---
     try:
-        with open(f"results.json", "r") as file:
-            global data
-            data = json.load(file)
-        print(f"Data for {YEAR} loaded successfully.")
-    except FileNotFoundError:
-        print(f"Error: The file {YEAR}_results.json was not found.")
+        with open("results.json", "r", encoding="utf-8") as f:
+            results = json.load(f)
+        with open("results_candidates.json", "r", encoding="utf-8") as f:
+            candidates = json.load(f)
+        with open("red_carpet.json", "r", encoding="utf-8") as f:
+            red_carpet = json.load(f)
+        print("All JSON files loaded successfully.\n")
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
         return
     except json.JSONDecodeError:
-        print("Error: Failed to decode the JSON file.")
+        print("Error: Failed to decode one of the JSON files.")
         return
-    
-    print(get_hosts(YEAR))
-    print(get_awards(YEAR))
-    print(get_nominees(YEAR))
-    print(get_winner(YEAR))
-    print(get_presenters(YEAR))
+
+    # --- Extract Host Data ---
+    hosts = results.get("hosts", [])  # confirmed hosts
+    host_data = candidates.get("hosts", {})  # dict with 'confirmed' and 'candidates'
+    host_candidates_list = host_data.get("candidates", [])
+
+    # --- Quoted Host Output ---
+    quoted_hosts = [f'"{h}"' for h in hosts]
+    quoted_host_candidates = [f'"{c}"' for c in host_candidates_list + hosts]
+
+    # --- Extract Awards ---
+    award_data = results.get("award_data", {})
+    candidate_awards = candidates.get("awards", {})
+
+    award_names = [name.title() for name in award_data.keys()]
+
+    # --- Build Output Lines ---
+    output_lines = []
+
+    # Hosts section
+    output_lines.append("Host: " + ", ".join(quoted_hosts))
+    output_lines.append("Host Candidates: " + ", ".join(quoted_host_candidates))
+    output_lines.append("")
+
+    # Awards list
+    quoted_awards = [f'"{a}"' for a in award_names]
+    output_lines.append("Awards: " + ", ".join(quoted_awards))
+    output_lines.append("")
+
+    # Awards details
+    for award, info in award_data.items():
+        award_lower = award.lower()
+        award_candidates = candidate_awards.get(award_lower, {})
+
+        # Presenters
+        presenters = info.get("presenters", [])
+        presenter_candidates = award_candidates.get("presenter_candidates", [])
+
+        # Nominees
+        nominees = info.get("nominees", [])
+        nominee_candidates = award_candidates.get("nominee_candidates", [])
+
+        # Winner
+        winner = info.get("winner", "N/A")
+        winner_candidates = award_candidates.get("winner_candidates", [])
+
+        output_lines.append(f'Award: "{award.title()}"')
+        output_lines.append("Presenters: " + (", ".join([f'"{p}"' for p in presenters]) or '"N/A"'))
+        output_lines.append("Presenters Candidates: " + (", ".join([f'"{p}"' for p in presenter_candidates]) or '"N/A"'))
+        output_lines.append("Nominees: " + (", ".join([f'"{n}"' for n in nominees]) or '"N/A"'))
+        output_lines.append("Nominee Candidates: " + (", ".join([f'"{n}"' for n in nominee_candidates]) or '"N/A"'))
+        output_lines.append(f'Winner: "{winner}"')
+        output_lines.append("Winner Candidates: " + (", ".join([f'"{w}"' for w in winner_candidates]) or f'"{winner}"'))
+        output_lines.append("")
+
+    # Red Carpet Section
+    best_dressed = "N/A"
+    worst_dressed = "N/A"
+    most_discussed = "N/A"
+
+    if red_carpet.get("best_dressed"):
+        best_dressed = red_carpet["best_dressed"][2][0]
+    if red_carpet.get("worst_dressed"):
+        worst_dressed = red_carpet["worst_dressed"][0][0]
+    if red_carpet.get("most_discussed"):
+        most_discussed = red_carpet["most_discussed"][3][0]
+
+    output_lines.append(f'Best Dressed: "{best_dressed}"')
+    output_lines.append(f'Worst Dressed: "{worst_dressed}"')
+    output_lines.append(f'Most Controversially Dressed: "{most_discussed}"')
+
+    # --- Save Output ---
+    output_path = "gg_results.txt"
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(output_lines))
+
+    print(f"Golden Globes formatted results saved to {output_path}\n")
 
     return
 
