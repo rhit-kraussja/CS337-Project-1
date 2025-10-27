@@ -26,7 +26,7 @@ All of our functions can be run using `gg_api.py`. This should populate json fil
 - `performance.json`: includes performers in the show, as well as general opinions on the performers
 - `red_carpet.json`: includes best dressed, worst dressed, most discussed, most controversial during the show
 - `results.json`: includes the final results along with winners, nominees, and presenters for each award, and hosts of the show
-- `results_candidates.json`: includes the final results along candidates
+- `results_candidates.json`: includes the final results along with candidates
 
 ## Output
 gg_results.txt is a human readable output file
