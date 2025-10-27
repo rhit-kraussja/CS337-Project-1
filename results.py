@@ -62,8 +62,16 @@ def get_data():
                 present_b = []
             presenters = list(set(present_a + present_b))
 
+            # get nominees
+            if "NOMINEES_B" in parsed[k]:
+                nominees = parsed[k]["NOMINEE_B"].items()
+            else:
+                nominees = []
+
+
             final[k] = {
                 "presenters": presenters,
+                "nominees": nominees,
                 "winner": winner
             }
         
