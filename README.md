@@ -21,8 +21,12 @@ For A level features uncomment:
 	aggregate_performances()
 in pre_ceremony in `gg_api.py`. Note this increases runtime to 18-20 minutes.
 
-All of our functions can be run using `gg_api.py`. This should populate json files: `candidates.json`, `performance.json, `red_carpet.json`, and `results.json`.
+All of our functions can be run using `gg_api.py`. This should populate json files: `candidates.json`, `performance.json, `red_carpet.json`, `results_candidates.json`, and `results.json`.
 - `candidates.json`: includes all the candidates (awards along with what the role/subject is- winners/nominees/hosts/etc.)
 - `performance.json`: includes performers in the show, as well as general opinions on the performers
 - `red_carpet.json`: includes best dressed, worst dressed, most discussed, most controversial during the show
 - `results.json`: includes the final results along with winners, nominees, and presenters for each award, and hosts of the show
+- `results_candidates.json`: includes the final results along candidates
+
+## Output
+gg_results.txt is a human readable output file
